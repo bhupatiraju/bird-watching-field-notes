@@ -1,6 +1,5 @@
 # Bird Watching Field Notes
-Cleaned up bird watching lists from Rishi Valley School
-
+Cleaned up and compiled bird watching lists
 
 | Date        | Time               | Location                             | Weather                    | Name from Notes              | Bird Species                                            | Scientific Name               | eBird link                                                                           | Notes          | Count        | Sex   | Comments                                           |
 |:------------|:-------------------|:-------------------------------------|:---------------------------|:-----------------------------|:--------------------------------------------------------|:------------------------------|:-------------------------------------------------------------------------------------|:---------------|:-------------|:------|:---------------------------------------------------|
