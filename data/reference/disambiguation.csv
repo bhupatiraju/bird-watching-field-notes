@@ -1,0 +1,1763 @@
+corrected_name,standardized_name,id
+White-browed bulbul,White-browed Bulbul - Pycnonotus luteolus,whbbul2
+Rose-ringed Parakeet,Rose-ringed Parakeet - Psittacula krameri,rorpar
+Pond Heron,Malagasy Pond-Heron - Ardeola idae,mapher1
+Pond Heron,Indian Pond-Heron - Ardeola grayii,inpher1
+Pond Heron,Chinese Pond-Heron - Ardeola bacchus,chpher1
+Pond Heron,Javan Pond-Heron - Ardeola speciosa,japher1
+Koel,Dwarf Koel - Microdynamis parva,dwakoe1
+Koel,Asian Koel - Eudynamys scolopaceus,asikoe2
+Koel,Black-billed Koel - Eudynamys melanorhynchus,bkbkoe1
+Koel,Pacific Koel - Eudynamys orientalis,asikoe3
+Koel,Long-tailed Koel - Urodynamis taitensis,lotkoe1
+Coucal,Buff-headed Coucal - Centropus milo,buhcou1
+Coucal,Pied Coucal - Centropus ateralbus,piecou1
+Coucal,Biak Coucal - Centropus chalybeus,biacou1
+Coucal,Greater Black Coucal - Centropus menbeki,grbcou1
+Coucal,Rufous Coucal - Centropus unirufus,rufcou1
+Coucal,Green-billed Coucal - Centropus chlororhynchos,grbcou2
+Coucal,Black-faced Coucal - Centropus melanops,blfcou1
+Coucal,Short-toed Coucal - Centropus rectunguis,shtcou1
+Coucal,Black-hooded Coucal - Centropus steerii,blhcou1
+Coucal,Bay Coucal - Centropus celebensis,baycou1
+Coucal,Gabon Coucal - Centropus anselli,gabcou1
+Coucal,Black-throated Coucal - Centropus leucogaster,bltcou1
+Coucal,Senegal Coucal - Centropus senegalensis,sencou1
+Coucal,Blue-headed Coucal - Centropus monachus,blhcou2
+Coucal,Coppery-tailed Coucal - Centropus cupreicaudus,cotcou1
+Coucal,White-browed Coucal - Centropus superciliosus,whbcou1
+Coucal,Sunda Coucal - Centropus nigrorufus,suncou1
+Coucal,Andaman Coucal - Centropus andamanensis,andcou1
+Coucal,Greater Coucal - Centropus sinensis,grecou1
+Coucal,Goliath Coucal - Centropus goliath,golcou1
+Coucal,Malagasy Coucal - Centropus toulou,madcou1
+Coucal,Black Coucal - Centropus grillii,blacou1
+Coucal,Philippine Coucal - Centropus viridis,phicou1
+Coucal,Lesser Coucal - Centropus bengalensis,lescou1
+Coucal,Violaceous Coucal - Centropus violaceus,viocou1
+Coucal,Lesser Black Coucal - Centropus bernsteini,lebcou1
+Coucal,Pheasant Coucal - Centropus phasianinus,phecou2
+Spotted Dove,Spotted Dove - Spilopelia chinensis,spodov
+Spotted Dove,Emerald-spotted Wood-Dove - Turtur chalcospilos,eswdov1
+Spotted Dove,Blue-spotted Wood-Dove - Turtur afer,bswdov1
+Spotted Dove,Golden-spotted Ground Dove - Metriopelia aymara,gsgdov1
+Spotted Dove,Pink-spotted Fruit-Dove - Ptilinopus perlatus,psfdov1
+Drongo,Fork-tailed Drongo-Cuckoo - Surniculus dicruroides,asidrc2
+Drongo,Philippine Drongo-Cuckoo - Surniculus velutinus,phidrc1
+Drongo,Square-tailed Drongo-Cuckoo - Surniculus lugubris,asidrc3
+Drongo,Moluccan Drongo-Cuckoo - Surniculus musschenbroeki,asidrc4
+Drongo,Drongo Fantail - Chaetorhynchus papuensis,papdro1
+Drongo,Sharpe's Drongo - Dicrurus sharpei,shadro2
+Drongo,Square-tailed Drongo - Dicrurus ludwigii,cstdro1
+Drongo,Shining Drongo - Dicrurus atripennis,shidro1
+Drongo,Fork-tailed Drongo - Dicrurus adsimilis,fotdro5
+Drongo,Velvet-mantled Drongo - Dicrurus modestus,vemdro6
+Drongo,Aldabra Drongo - Dicrurus aldabranus,alddro1
+Drongo,Comoro Drongo - Dicrurus fuscipennis,comdro1
+Drongo,Crested Drongo - Dicrurus forficatus,credro1
+Drongo,Mayotte Drongo - Dicrurus waldenii,maydro1
+Drongo,Black Drongo - Dicrurus macrocercus,bladro1
+Drongo,Ashy Drongo - Dicrurus leucophaeus,ashdro1
+Drongo,White-bellied Drongo - Dicrurus caerulescens,whbdro1
+Drongo,Crow-billed Drongo - Dicrurus annectens,crbdro1
+Drongo,Bronzed Drongo - Dicrurus aeneus,brodro1
+Drongo,Lesser Racket-tailed Drongo - Dicrurus remifer,lrtdro1
+Drongo,Hair-crested Drongo (Spangled Drongo) - Dicrurus hottentottus,hacdro1
+Drongo,Short-tailed Drongo - Dicrurus striatus,hacdro3
+Drongo,Palawan Drongo - Dicrurus palawanensis,paldro1
+Drongo,Sulawesi Drongo - Dicrurus montanus,suldro1
+Drongo,Sumatran Drongo - Dicrurus sumatranus,sumdro1
+Drongo,Wallacean Drongo - Dicrurus densus,waldro1
+Drongo,Ribbon-tailed Drongo - Dicrurus megarhynchus,ritdro1
+Drongo,Australian Spangled Drongo - Dicrurus bracteatus,spadro1
+Drongo,Tablas Drongo - Dicrurus menagei,tabdro1
+Drongo,Andaman Drongo - Dicrurus andamanensis,anddro1
+Drongo,Greater Racket-tailed Drongo - Dicrurus paradiseus,grtdro1
+Drongo,Sri Lanka Drongo - Dicrurus lophorinus,srldro1
+Pied Wagtail,White-browed Wagtail (Large Pied Wagtail) - Motacilla maderaspatensis,whbwag1
+Pied Wagtail,African Pied Wagtail - Motacilla aguimp,afpwag1
+Paddyfield Warbler,Paddyfield Warbler - Acrocephalus agricola,padwar1
+Dove,Dovekie - Alle alle,doveki
+Dove,Stock Dove - Columba oenas,stodov1
+Dove,Lemon Dove - Aplopelia larvata,lemdov2
+Dove,Malagasy Turtle-Dove - Nesoenas picturatus,matdov1
+Dove,Mauritius Turtle-Dove - Nesoenas cicur,mautud1
+Dove,Rodrigues Turtle-Dove - Nesoenas rodericanus,rodtud1
+Dove,European Turtle-Dove - Streptopelia turtur,eutdov
+Dove,Dusky Turtle-Dove - Streptopelia lugens,dutdov1
+Dove,Adamawa Turtle-Dove - Streptopelia hypopyrrha,adtdov1
+Dove,Oriental Turtle-Dove - Streptopelia orientalis,ortdov
+Dove,Sunda Collared-Dove - Streptopelia bitorquata,iscdov1
+Dove,Philippine Collared-Dove - Streptopelia dusumieri,phicod1
+Dove,Eurasian Collared-Dove - Streptopelia decaocto,eucdov
+Dove,Burmese Collared-Dove - Streptopelia xanthocycla,eurcod2
+Dove,African Collared-Dove - Streptopelia roseogrisea,afcdov1
+Dove,White-winged Collared-Dove - Streptopelia reichenowi,wwcdov1
+Dove,Mourning Collared-Dove - Streptopelia decipiens,afmdov1
+Dove,Red-eyed Dove - Streptopelia semitorquata,reedov1
+Dove,Ring-necked Dove - Streptopelia capicola,rindov
+Dove,Vinaceous Dove - Streptopelia vinacea,vindov1
+Dove,Red Collared-Dove (Red Turtle-Dove) - Streptopelia tranquebarica,recdov1
+Dove,Spotted Dove - Spilopelia chinensis,spodov
+Dove,Laughing Dove (Little Brown Dove) - Spilopelia senegalensis,laudov1
+Dove,Barred Cuckoo-Dove - Macropygia unchall,bacdov1
+Dove,Brown Cuckoo-Dove - Macropygia phasianella,brcdov1
+Dove,Flores Sea Cuckoo-Dove - Macropygia macassariensis,ducdov1
+Dove,Timor Cuckoo-Dove - Macropygia magna,timcud1
+Dove,Tanimbar Cuckoo-Dove - Macropygia timorlaoensis,tancud1
+Dove,Amboyna Cuckoo-Dove - Macropygia amboinensis,sbcdov1
+Dove,Sultan's Cuckoo-Dove - Macropygia doreya,sulcud1
+Dove,Andaman Cuckoo-Dove - Macropygia rufipennis,ancdov1
+Dove,Philippine Cuckoo-Dove - Macropygia tenuirostris,phcdov1
+Dove,Ruddy Cuckoo-Dove - Macropygia emiliana,rucdov1
+Dove,Enggano Cuckoo-Dove - Macropygia cinnamomea,engcud1
+Dove,Barusan Cuckoo-Dove - Macropygia modiglianii,barcud1
+Dove,Black-billed Cuckoo-Dove - Macropygia nigrirostris,bbcdov1
+Dove,Mackinlay's Cuckoo-Dove - Macropygia mackinlayi,macdov1
+Dove,Little Cuckoo-Dove - Macropygia ruficeps,licdov1
+Dove,Great Cuckoo-Dove - Reinwardtoena reinwardti,grcdov2
+Dove,Pied Cuckoo-Dove - Reinwardtoena browni,picdov1
+Dove,Crested Cuckoo-Dove - Reinwardtoena crassirostris,crcdov1
+Dove,White-faced Cuckoo-Dove - Turacoena manadensis,wfcdov1
+Dove,Sula Cuckoo-Dove - Turacoena sulaensis,sulcud2
+Dove,Slaty Cuckoo-Dove - Turacoena modesta,slacud1
+Dove,Emerald-spotted Wood-Dove - Turtur chalcospilos,eswdov1
+Dove,Black-billed Wood-Dove - Turtur abyssinicus,bbwdov1
+Dove,Blue-spotted Wood-Dove - Turtur afer,bswdov1
+Dove,Tambourine Dove - Turtur tympanistria,tamdov1
+Dove,Blue-headed Wood-Dove - Turtur brehmeri,bhwdov1
+Dove,Namaqua Dove - Oena capensis,namdov1
+Dove,Asian Emerald Dove - Chalcophaps indica,emedov2
+Dove,Pacific Emerald Dove - Chalcophaps longirostris,emedov3
+Dove,Stephan's Dove - Chalcophaps stephani,stedov1
+Dove,Wetar Ground Dove - Pampusana hoedtii,wegdov1
+Dove,Shy Ground Dove - Pampusana stairi,frgdov1
+Dove,Santa Cruz Ground Dove - Pampusana sanctaecrucis,scgdov1
+Dove,Thick-billed Ground Dove - Pampusana salamonis,tbgdov1
+Dove,Tanna Ground Dove - Pampusana ferruginea,tangrd1
+Dove,Bronze Ground Dove - Pampusana beccarii,brgdov1
+Dove,Palau Ground Dove - Pampusana canifrons,pagdov1
+Dove,White-bibbed Ground Dove - Pampusana jobiensis,wbgdov1
+Dove,Marquesas Ground Dove - Pampusana rubescens,margrd1
+Dove,Caroline Islands Ground Dove - Pampusana kubaryi,cigdov1
+Dove,Polynesian Ground Dove - Pampusana erythroptera,pogdov1
+Dove,White-throated Ground Dove - Pampusana xanthonura,wtgdov1
+Dove,Norfolk Ground Dove - Pampusana norfolkensis,norgrd1
+Dove,Diamond Dove - Geopelia cuneata,diadov1
+Dove,Zebra Dove - Geopelia striata,zebdov
+Dove,Peaceful Dove - Geopelia placida,peadov1
+Dove,Barred Dove - Geopelia maugeus,bardov2
+Dove,Bar-shouldered Dove - Geopelia humeralis,basdov1
+Dove,Inca Dove - Columbina inca,incdov
+Dove,Common Ground Dove - Columbina passerina,cogdov
+Dove,Plain-breasted Ground Dove - Columbina minuta,pbgdov1
+Dove,Ruddy Ground Dove - Columbina talpacoti,rugdov
+Dove,Ecuadorian Ground Dove - Columbina buckleyi,ecgdov1
+Dove,Scaled Dove - Columbina squammata,scadov1
+Dove,Picui Ground Dove - Columbina picui,pigdov1
+Dove,Croaking Ground Dove - Columbina cruziana,crgdov1
+Dove,Blue-eyed Ground Dove - Columbina cyanopis,begdov2
+Dove,Blue Ground Dove - Claravis pretiosa,blgdov1
+Dove,Maroon-chested Ground Dove - Paraclaravis mondetoura,mcgdov1
+Dove,Purple-winged Ground Dove - Paraclaravis geoffroyi,pwgdov1
+Dove,Bare-faced Ground Dove - Metriopelia ceciliae,bfgdov1
+Dove,Bare-eyed Ground Dove - Metriopelia morenoi,begdov1
+Dove,Black-winged Ground Dove - Metriopelia melanoptera,bwgdov1
+Dove,Golden-spotted Ground Dove - Metriopelia aymara,gsgdov1
+Dove,Long-tailed Ground Dove - Uropelia campestris,ltgdov1
+Dove,Blue-headed Quail-Dove - Starnoenas cyanocephala,bhqdov1
+Dove,Purple Quail-Dove - Geotrygon purpurata,sapqud1
+Dove,Sapphire Quail-Dove - Geotrygon saphirina,sapqud2
+Dove,Crested Quail-Dove - Geotrygon versicolor,crqdov1
+Dove,Ruddy Quail-Dove - Geotrygon montana,ruqdov
+Dove,Violaceous Quail-Dove - Geotrygon violacea,viqdov1
+Dove,Grey-fronted Quail-Dove - Geotrygon caniceps,gfqdov
+Dove,White-fronted Quail-Dove - Geotrygon leucometopia,wfqdov
+Dove,Key West Quail-Dove - Geotrygon chrysia,kwqdov
+Dove,Bridled Quail-Dove - Geotrygon mystacea,brqdov1
+Dove,Olive-backed Quail-Dove - Leptotrygon veraguensis,obqdov1
+Dove,White-tipped Dove - Leptotila verreauxi,whtdov
+Dove,Caribbean Dove - Leptotila jamaicensis,cardov1
+Dove,Grey-chested Dove - Leptotila cassinii,grcdov1
+Dove,Tolima Dove - Leptotila conoveri,toldov1
+Dove,Ochre-bellied Dove - Leptotila ochraceiventris,ocbdov1
+Dove,Grey-headed Dove - Leptotila plumbeiceps,gyhdov1
+Dove,Grey-fronted Dove - Leptotila rufaxilla,grfdov1
+Dove,Grenada Dove - Leptotila wellsi,gredov1
+Dove,Pallid Dove - Leptotila pallida,paldov1
+Dove,Large-tailed Dove - Leptotila megalura,latdov1
+Dove,Tuxtla Quail-Dove - Zentrygon carrikeri,tuqdov1
+Dove,Buff-fronted Quail-Dove - Zentrygon costaricensis,bfqdov1
+Dove,Purplish-backed Quail-Dove - Zentrygon lawrencii,pbqdov1
+Dove,White-faced Quail-Dove - Zentrygon albifacies,wfqdov1
+Dove,White-throated Quail-Dove - Zentrygon frenata,wtqdov1
+Dove,Lined Quail-Dove - Zentrygon linearis,liqdov1
+Dove,Chiriqui Quail-Dove - Zentrygon chiriquensis,chqdov1
+Dove,Russet-crowned Quail-Dove - Zentrygon goldmani,rcqdov1
+Dove,West Peruvian Dove - Zenaida meloda,wepdov1
+Dove,White-winged Dove - Zenaida asiatica,whwdov
+Dove,Zenaida Dove - Zenaida aurita,zendov
+Dove,Galapagos Dove - Zenaida galapagoensis,galdov1
+Dove,Eared Dove - Zenaida auriculata,eardov1
+Dove,Mourning Dove - Zenaida macroura,moudov
+Dove,Socorro Dove - Zenaida graysoni,socdov1
+Dove,Sulawesi Ground Dove - Gallicolumba tristigmata,sugdov1
+Dove,Cinnamon Ground Dove - Gallicolumba rufigula,cigdov2
+Dove,White-eared Brown-Dove - Phapitreron leucotis,whedov1
+Dove,Amethyst Brown-Dove - Phapitreron amethystinus,amedov1
+Dove,Mindanao Brown-Dove - Phapitreron brunneiceps,daedov2
+Dove,Tawitawi Brown-Dove - Phapitreron cinereiceps,daedov3
+Dove,Black-backed Fruit-Dove - Ptilinopus cinctus,bbfdov1
+Dove,Black-banded Fruit-Dove - Ptilinopus alligator,bbfdov2
+Dove,Red-naped Fruit-Dove - Ptilinopus dohertyi,rnfdov1
+Dove,Pink-headed Fruit-Dove - Ptilinopus porphyreus,phfdov1
+Dove,Yellow-breasted Fruit-Dove - Ptilinopus occipitalis,ybfdov2
+Dove,Flame-breasted Fruit-Dove - Ptilinopus marchei,fbfdov1
+Dove,Cream-breasted Fruit-Dove - Ptilinopus merrilli,crbfrd1
+Dove,Red-eared Fruit-Dove - Ptilinopus fischeri,refdov1
+Dove,Jambu Fruit-Dove - Ptilinopus jambu,jafdov1
+Dove,Maroon-chinned Fruit-Dove - Ptilinopus epius,macfrd1
+Dove,Banggai Fruit-Dove - Ptilinopus subgularis,macfrd3
+Dove,Sula Fruit-Dove - Ptilinopus mangoliensis,macfrd2
+Dove,Black-chinned Fruit-Dove - Ptilinopus leclancheri,bcfdov1
+Dove,Scarlet-breasted Fruit-Dove - Ptilinopus bernsteinii,sbfdov1
+Dove,Wompoo Fruit-Dove - Ptilinopus magnificus,wofdov1
+Dove,Pink-spotted Fruit-Dove - Ptilinopus perlatus,psfdov1
+Dove,Ornate Fruit-Dove - Ptilinopus ornatus,orfdov1
+Dove,Tanna Fruit-Dove - Ptilinopus tannensis,tafdov1
+Dove,Orange-fronted Fruit-Dove - Ptilinopus aurantiifrons,offdov1
+Dove,Wallace's Fruit-Dove - Ptilinopus wallacii,wafdov1
+Myna,Paperbark Flycatcher - Myiagra nana,papfly1
+Myna,Fiery-browed Myna - Enodes erythrophris,fibmyn1
+Myna,Finch-billed Myna - Scissirostrum dubium,fibmyn2
+Myna,Sulawesi Myna - Basilornis celebensis,sulmyn1
+Myna,Helmeted Myna - Basilornis galeatus,helmyn1
+Myna,Long-crested Myna - Basilornis corythaix,locmyn1
+Myna,Apo Myna - Goodfellowia miranda,apomyn2
+Myna,White-necked Myna - Streptocitta albicollis,whnmyn1
+Myna,Bare-eyed Myna - Streptocitta albertinae,baemyn1
+Myna,Yellow-faced Myna - Mino dumontii,yefmyn1
+Myna,Golden Myna - Mino anais,golmyn1
+Myna,Long-tailed Myna - Mino kreffti,lotmyn1
+Myna,Golden-crested Myna - Ampeliceps coronatus,gocmyn1
+Myna,Sri Lanka Myna - Gracula ptilogenys,ceymyn1
+Myna,Common Hill Myna - Gracula religiosa,hilmyn
+Myna,Tenggara Hill Myna - Gracula venerata,cohmyn2
+Myna,Southern Hill Myna - Gracula indica,sohmyn1
+Myna,Indian Pied Starling (Pied Myna) - Gracupica contra,aspsta2
+Myna,Bali Myna - Leucopsar rothschildi,balmyn1
+Myna,Common Myna - Acridotheres tristis,commyn
+Myna,Bank Myna - Acridotheres ginginianus,banmyn1
+Myna,Burmese Myna - Acridotheres burmannicus,vibsta1
+Myna,Vinous-breasted Myna - Acridotheres leucocephalus,vibsta4
+Myna,Black-winged Myna - Acridotheres melanopterus,bkwsta1
+Myna,Jungle Myna - Acridotheres fuscus,junmyn1
+Myna,Javan Myna - Acridotheres javanicus,whvmyn
+Myna,Pale-bellied Myna - Acridotheres cinereus,pabmyn1
+Myna,Collared Myna - Acridotheres albocinctus,colmyn1
+Myna,Great Myna - Acridotheres grandis,whvmyn1
+Myna,Crested Myna - Acridotheres cristatellus,cremyn
+House Crow,House Crow - Corvus splendens,houcro1
+Little Egret,Little Egret - Egretta garzetta,litegr
+Intermediate Egret,Intermediate Egret (Medium Egret) - Ardea intermedia,integr1
+Scaly-breasted Munia,Scaly-breasted Munia (Spotted Munia) - Lonchura punctulata,nutman
+White-breasted waterhen,White-breasted Waterhen - Amaurornis phoenicurus,whbwat1
+Red-whiskered Bulbul,Red-whiskered Bulbul - Pycnonotus jocosus,rewbul
+Red-vented Bulbul,Red-vented Bulbul - Pycnonotus cafer,revbul
+Black Drongo,Black Drongo - Dicrurus macrocercus,bladro1
+Sunbird,Common Sunbird-Asity - Neodrepanis coruscans,sunasi1
+Sunbird,Yellow-bellied Sunbird-Asity - Neodrepanis hypoxantha,yebasi1
+Sunbird,Ruby-cheeked Sunbird - Chalcoparia singalensis,rucsun2
+Sunbird,Fraser's Sunbird - Deleornis fraseri,sctsun2
+Sunbird,Grey-headed Sunbird - Deleornis axillaris,gyhsun1
+Sunbird,Plain-backed Sunbird - Anthreptes reichenowi,plbsun1
+Sunbird,Anchieta's Sunbird - Anthreptes anchietae,ancsun1
+Sunbird,Plain Sunbird - Anthreptes simplex,plasun1
+Sunbird,Brown-throated Sunbird - Anthreptes malacensis,pltsun2
+Sunbird,Grey-throated Sunbird - Anthreptes griseigularis,pltsun3
+Sunbird,Red-throated Sunbird - Anthreptes rhodolaemus,retsun3
+Sunbird,Mouse-brown Sunbird - Anthreptes gabonicus,mobsun1
+Sunbird,Western Violet-backed Sunbird - Anthreptes longuemarei,wvbsun1
+Sunbird,Eastern Violet-backed Sunbird - Anthreptes orientalis,kvbsun1
+Sunbird,Uluguru Violet-backed Sunbird - Anthreptes neglectus,uvbsun1
+Sunbird,Violet-tailed Sunbird - Anthreptes aurantius,vitsun1
+Sunbird,Little Green Sunbird - Anthreptes seimundi,ligsun2
+Sunbird,Green Sunbird - Anthreptes rectirostris,gresun1
+Sunbird,Banded Sunbird - Anthreptes rubritorques,bansun1
+Sunbird,Collared Sunbird - Hedydipna collaris,colsun2
+Sunbird,Pygmy Sunbird - Hedydipna platura,pygsun2
+Sunbird,Nile Valley Sunbird - Hedydipna metallica,nivsun2
+Sunbird,Amani Sunbird - Hedydipna pallidigaster,amasun2
+Sunbird,Reichenbach's Sunbird - Anabathmis reichenbachii,reisun2
+Sunbird,Principe Sunbird - Anabathmis hartlaubii,prisun2
+Sunbird,Newton's Sunbird - Anabathmis newtonii,newsun2
+Sunbird,Sao Tome Sunbird - Dreptes thomensis,satsun1
+Sunbird,Orange-breasted Sunbird - Anthobaphes violacea,orbsun2
+Sunbird,Green-headed Sunbird - Cyanomitra verticalis,gnhsun1
+Sunbird,Bannerman's Sunbird - Cyanomitra bannermani,bansun3
+Sunbird,Blue-throated Brown Sunbird - Cyanomitra cyanolaema,btbsun2
+Sunbird,Cameroon Sunbird - Cyanomitra oritis,camsun2
+Sunbird,Blue-headed Sunbird - Cyanomitra alinae,buhsun1
+Sunbird,Olive Sunbird - Cyanomitra olivacea,eaosun1
+Sunbird,Mouse-colored Sunbird - Cyanomitra veroxii,mocsun2
+Sunbird,Buff-throated Sunbird - Chalcomitra adelberti,butsun2
+Sunbird,Carmelite Sunbird - Chalcomitra fuliginosa,carsun2
+Sunbird,Green-throated Sunbird - Chalcomitra rubescens,gntsun1
+Sunbird,Amethyst Sunbird - Chalcomitra amethystina,amesun2
+Sunbird,Scarlet-chested Sunbird - Chalcomitra senegalensis,sccsun2
+Sunbird,Hunter's Sunbird - Chalcomitra hunteri,hunsun2
+Sunbird,Socotra Sunbird - Chalcomitra balfouri,socsun2
+Sunbird,Purple-rumped Sunbird - Leptocoma zeylonica,pursun3
+Sunbird,Crimson-backed Sunbird (Small Sunbird) - Leptocoma minima,crbsun2
+Sunbird,Van Hasselt's Sunbird (Purple-throated Sunbird) - Leptocoma brasiliana,vahsun1
+Sunbird,Philippine Purple-throated Sunbird - Leptocoma sperata,putsun3
+Sunbird,Black Sunbird - Leptocoma aspasia,blksun1
+Sunbird,Copper-throated Sunbird - Leptocoma calcostetha,cotsun2
+Sunbird,Bocage's Sunbird - Nectarinia bocagii,bocsun2
+Sunbird,Purple-breasted Sunbird - Nectarinia purpureiventris,pubsun3
+Sunbird,Tacazze Sunbird - Nectarinia tacazze,tacsun1
+Sunbird,Bronze Sunbird - Nectarinia kilimensis,brosun1
+Sunbird,Malachite Sunbird - Nectarinia famosa,malsun1
+Sunbird,Red-tufted Sunbird - Nectarinia johnstoni,retsun2
+Sunbird,Golden-winged Sunbird - Drepanorhynchus reichenowi,gowsun2
+Sunbird,Olive-bellied Sunbird - Cinnyris chloropygius,olbsun3
+Sunbird,Tiny Sunbird - Cinnyris minullus,tinsun2
+Sunbird,Western Miombo Sunbird - Cinnyris gertrudis,miosun2
+Sunbird,Eastern Miombo Sunbird - Cinnyris manoensis,miosun3
+Sunbird,Southern Double-collared Sunbird - Cinnyris chalybeus,sdcsun3
+Sunbird,Neergaard's Sunbird - Cinnyris neergaardi,neesun2
+Sunbird,Stuhlmann's Sunbird - Cinnyris stuhlmanni,stusun1
+Sunbird,Prigogine's Sunbird - Cinnyris prigoginei,prisun3
+Sunbird,Montane Double-collared Sunbird - Cinnyris ludovicensis,mdcsun3
+Sunbird,Northern Double-collared Sunbird - Cinnyris reichenowi,ndcsun2
+Sunbird,Greater Double-collared Sunbird - Cinnyris afer,gdcsun2
+Sunbird,Regal Sunbird - Cinnyris regius,regsun2
+Sunbird,Rockefeller's Sunbird - Cinnyris rockefelleri,rocsun2
+Sunbird,Eastern Double-collared Sunbird - Cinnyris mediocris,edcsun3
+Sunbird,Usambara Double-collared Sunbird - Cinnyris usambaricus,edcsun4
+Sunbird,Forest Double-collared Sunbird - Cinnyris fuelleborni,edcsun1
+Sunbird,Moreau's Sunbird - Cinnyris moreaui,morsun2
+Sunbird,Loveridge's Sunbird - Cinnyris loveridgei,lovsun3
+Sunbird,Beautiful Sunbird - Cinnyris pulchellus,beasun2
+Sunbird,Marico Sunbird - Cinnyris mariquensis,marsun2
+Sunbird,Shelley's Sunbird - Cinnyris shelleyi,shesun2
+Sunbird,Congo Sunbird - Cinnyris congensis,consun2
+Sunbird,Red-chested Sunbird - Cinnyris erythrocercus,recsun2
+Sunbird,Black-bellied Sunbird - Cinnyris nectarinioides,bkbsun1
+Sunbird,Purple-banded Sunbird - Cinnyris bifasciatus,pubsun4
+Sunbird,Tsavo Sunbird - Cinnyris tsavoensis,tsasun1
+Sunbird,Violet-breasted Sunbird - Cinnyris chalcomelas,vibsun2
+Sunbird,Pemba Sunbird - Cinnyris pembae,pemsun2
+Sunbird,Orange-tufted Sunbird - Cinnyris bouvieri,ortsun3
+Sunbird,Palestine Sunbird - Cinnyris osea,palsun2
+Sunbird,Shining Sunbird - Cinnyris habessinicus,shisun3
+Sunbird,Splendid Sunbird - Cinnyris coccinigastrus,splsun2
+Sunbird,Johanna's Sunbird - Cinnyris johannae,johsun2
+Sunbird,Superb Sunbird - Cinnyris superbus,supsun2
+Sunbird,Rufous-winged Sunbird - Cinnyris rufipennis,ruwsun2
+Sunbird,Oustalet's Sunbird - Cinnyris oustaleti,oussun2
+Sunbird,White-breasted Sunbird - Cinnyris talatala,whbsun2
+Sunbird,Variable Sunbird - Cinnyris venustus,varsun2
+Sunbird,Dusky Sunbird - Cinnyris fuscus,dussun2
+Sunbird,Ursula's Sunbird - Cinnyris ursulae,urssun2
+Sunbird,Bates's Sunbird - Cinnyris batesi,batsun2
+Sunbird,Copper Sunbird - Cinnyris cupreus,copsun2
+Sunbird,Purple Sunbird - Cinnyris asiaticus,pursun4
+Sunbird,Olive-backed Sunbird (Ornate Sunbird) - Cinnyris ornatus,olbsun4
+Sunbird,Tukangbesi Sunbird - Cinnyris infrenatus,olbsun23
+Sunbird,Sahul Sunbird - Cinnyris frenatus,olbsun2
+Sunbird,Garden Sunbird - Cinnyris jugularis,olbsun31
+Sunbird,Palawan Sunbird - Cinnyris aurora,olbsun6
+Sunbird,South Moluccan Sunbird - Cinnyris clementiae,olbsun1
+Sunbird,Flores Sea Sunbird - Cinnyris teysmanni,olbsun8
+Sunbird,Mamberamo Sunbird - Cinnyris idenburgi,olbsun9
+Sunbird,Apricot-breasted Sunbird - Cinnyris buettikoferi,apbsun2
+Sunbird,Flame-breasted Sunbird - Cinnyris solaris,flbsun2
+Sunbird,Souimanga Sunbird - Cinnyris sovimanga,sousun2
+Sunbird,Malagasy Sunbird - Cinnyris notatus,madsun1
+Sunbird,Seychelles Sunbird - Cinnyris dussumieri,seysun2
+Sunbird,Humblot's Sunbird - Cinnyris humbloti,humsun2
+Sunbird,Anjouan Sunbird - Cinnyris comorensis,anjsun2
+Sunbird,Mayotte Sunbird - Cinnyris coquerellii,maysun2
+Sunbird,Loten's Sunbird (Long-billed Sunbird) - Cinnyris lotenius,lobsun2
+Sunbird,Elegant Sunbird - Aethopyga duyvenbodei,elesun1
+Sunbird,Fire-tailed Sunbird - Aethopyga ignicauda,fitsun1
+Sunbird,Black-throated Sunbird - Aethopyga saturata,bltsun1
+Sunbird,Mrs. Gould's Sunbird - Aethopyga gouldiae,gousun1
+Sunbird,Green-tailed Sunbird - Aethopyga nipalensis,grtsun1
+Sunbird,Lovely Sunbird - Aethopyga shelleyi,lovsun1
+Sunbird,Temminck's Sunbird - Aethopyga temminckii,temsun1
+Sunbird,Javan Sunbird - Aethopyga mystacalis,scasun1
+Sunbird,Vigors's Sunbird - Aethopyga vigorsii,wecsun1
+Sunbird,Crimson Sunbird - Aethopyga siparaja,eacsun1
+Sunbird,Magnificent Sunbird - Aethopyga magnifica,magsun1
+Sunbird,Fork-tailed Sunbird - Aethopyga christinae,fotsun1
+Sunbird,Handsome Sunbird - Aethopyga bella,hansun1
+Sunbird,White-flanked Sunbird - Aethopyga eximia,whfsun1
+Sunbird,Flaming Sunbird - Aethopyga flagrans,flasun1
+Sunbird,Maroon-naped Sunbird - Aethopyga guimarasensis,mansun1
+Sunbird,Metallic-winged Sunbird - Aethopyga pulcherrima,mewsun3
+Sunbird,Lina's Sunbird - Aethopyga linaraborae,linsun1
+Sunbird,Grey-hooded Sunbird - Aethopyga primigenia,gyhsun2
+Sunbird,Apo Sunbird - Aethopyga boltoni,moasun1
+Sunbird,Tboli Sunbird - Aethopyga tibolii,tbosun1
+Malkoha,Raffles's Malkoha - Rhinortha chlorophaea,rafmal1
+Malkoha,Blue Malkoha - Ceuthmochares aereus,yellow5
+Malkoha,Green Malkoha - Ceuthmochares australis,yellow6
+Malkoha,Sirkeer Malkoha - Taccocua leschenaultii,sirmal1
+Malkoha,Red-billed Malkoha - Zanclostomus javanicus,rebmal2
+Malkoha,Chestnut-breasted Malkoha - Phaenicophaeus curvirostris,chbmal2
+Malkoha,Chestnut-bellied Malkoha - Phaenicophaeus sumatranus,chbmal1
+Malkoha,Red-faced Malkoha - Phaenicophaeus pyrrhocephalus,refmal1
+Malkoha,Blue-faced Malkoha - Phaenicophaeus viridirostris,blfmal1
+Malkoha,Black-bellied Malkoha - Phaenicophaeus diardi,blbmal1
+Malkoha,Green-billed Malkoha - Phaenicophaeus tristis,grbmal1
+Malkoha,Yellow-billed Malkoha - Rhamphococcyx calyorhynchus,yebmal1
+Malkoha,Red-crested Malkoha - Dasylophus superciliosus,recmal1
+Malkoha,Scale-feathered Malkoha - Dasylophus cumingi,scfmal1
+Paradise Flycatcher,Blue Paradise-Flycatcher - Terpsiphone cyanescens,blpfly1
+Paradise Flycatcher,Rufous Paradise-Flycatcher - Terpsiphone cinnamomea,rupfly1
+Paradise Flycatcher,Black Paradise-Flycatcher - Terpsiphone atrocaudata,japfly1
+Paradise Flycatcher,Amur Paradise-Flycatcher - Terpsiphone incei,amupaf1
+Paradise Flycatcher,Blyth's Paradise-Flycatcher - Terpsiphone affinis,blypaf1
+Paradise Flycatcher,Mascarene Paradise-Flycatcher - Terpsiphone bourbonnensis,mapfly2
+Paradise Flycatcher,Indian Paradise-Flycatcher - Terpsiphone paradisi,aspfly1
+Paradise Flycatcher,Sao Tome Paradise-Flycatcher - Terpsiphone atrochalybeia,stpfly1
+Paradise Flycatcher,Seychelles Paradise-Flycatcher - Terpsiphone corvina,sepfly1
+Paradise Flycatcher,Malagasy Paradise-Flycatcher - Terpsiphone mutata,mapfly1
+Paradise Flycatcher,Black-headed Paradise-Flycatcher - Terpsiphone rufiventer,bhpfly1
+Paradise Flycatcher,Bedford's Paradise-Flycatcher - Terpsiphone bedfordi,bepfly1
+Paradise Flycatcher,Rufous-vented Paradise-Flycatcher - Terpsiphone rufocinerea,rvpfly1
+Paradise Flycatcher,Bates's Paradise-Flycatcher - Terpsiphone batesi,batpaf1
+Paradise Flycatcher,African Paradise-Flycatcher - Terpsiphone viridis,afpfly1
+White-browed Bulbul,White-browed Bulbul - Pycnonotus luteolus,whbbul2
+Little Brown Dove,Laughing Dove (Little Brown Dove) - Spilopelia senegalensis,laudov1
+coucal,Buff-headed Coucal - Centropus milo,buhcou1
+coucal,Pied Coucal - Centropus ateralbus,piecou1
+coucal,Biak Coucal - Centropus chalybeus,biacou1
+coucal,Greater Black Coucal - Centropus menbeki,grbcou1
+coucal,Rufous Coucal - Centropus unirufus,rufcou1
+coucal,Green-billed Coucal - Centropus chlororhynchos,grbcou2
+coucal,Black-faced Coucal - Centropus melanops,blfcou1
+coucal,Short-toed Coucal - Centropus rectunguis,shtcou1
+coucal,Black-hooded Coucal - Centropus steerii,blhcou1
+coucal,Bay Coucal - Centropus celebensis,baycou1
+coucal,Gabon Coucal - Centropus anselli,gabcou1
+coucal,Black-throated Coucal - Centropus leucogaster,bltcou1
+coucal,Senegal Coucal - Centropus senegalensis,sencou1
+coucal,Blue-headed Coucal - Centropus monachus,blhcou2
+coucal,Coppery-tailed Coucal - Centropus cupreicaudus,cotcou1
+coucal,White-browed Coucal - Centropus superciliosus,whbcou1
+coucal,Sunda Coucal - Centropus nigrorufus,suncou1
+coucal,Andaman Coucal - Centropus andamanensis,andcou1
+coucal,Greater Coucal - Centropus sinensis,grecou1
+coucal,Goliath Coucal - Centropus goliath,golcou1
+coucal,Malagasy Coucal - Centropus toulou,madcou1
+coucal,Black Coucal - Centropus grillii,blacou1
+coucal,Philippine Coucal - Centropus viridis,phicou1
+coucal,Lesser Coucal - Centropus bengalensis,lescou1
+coucal,Violaceous Coucal - Centropus violaceus,viocou1
+coucal,Lesser Black Coucal - Centropus bernsteini,lebcou1
+coucal,Pheasant Coucal - Centropus phasianinus,phecou2
+Mottled Wood Owl,Mottled Wood-Owl - Strix ocellata,mowowl1
+Plaintive Cuckoo,Plaintive Cuckoo - Cacomantis merulinus,placuc1
+Jungle Nightjar,Jungle Nightjar (Indian Jungle Nightjar) - Caprimulgus indicus,grynig2
+Jungle Nightjar,Grey Nightjar (Eastern Jungle Nightjar) - Caprimulgus jotaka,grynig1
+Purple-rumped Sunbird,Purple-rumped Sunbird - Leptocoma zeylonica,pursun3
+Little Heron,Little Blue Heron - Egretta caerulea,libher
+Little Heron,Striated Heron (Little Heron) - Butorides striata,strher
+Tailorbird,African Tailorbird - Artisornis metopias,afrtai2
+Tailorbird,Long-billed Tailorbird - Artisornis moreaui,lobtai1
+Tailorbird,Common Tailorbird - Orthotomus sutorius,comtai1
+Tailorbird,Rufous-fronted Tailorbird - Orthotomus frontalis,ruftai1
+Tailorbird,Dark-necked Tailorbird - Orthotomus atrogularis,dantai1
+Tailorbird,Cambodian Tailorbird - Orthotomus chaktomuk,camtai1
+Tailorbird,Ashy Tailorbird - Orthotomus ruficeps,ashtai1
+Tailorbird,Olive-backed Tailorbird - Orthotomus sepium,olbtai1
+Tailorbird,Rufous-tailed Tailorbird - Orthotomus sericeus,ruttai1
+Tailorbird,Visayan Tailorbird - Orthotomus castaneiceps,phitai1
+Tailorbird,Grey-backed Tailorbird - Orthotomus derbianus,gybtai1
+Tailorbird,Green-backed Tailorbird - Orthotomus chloronotus,gnbtai1
+Tailorbird,Yellow-breasted Tailorbird - Orthotomus samarensis,yebtai1
+Tailorbird,White-browed Tailorbird - Orthotomus nigriceps,whbtai1
+Tailorbird,White-eared Tailorbird - Orthotomus cinereiceps,whetai1
+Tailorbird,Mountain Tailorbird - Phyllergates cucullatus,moutai2
+Tailorbird,Rufous-headed Tailorbird - Phyllergates heterolaemus,ruhtai2
+egret,Little Blue Heron - Egretta caerulea,libher
+egret,Tricolored Heron - Egretta tricolor,triher
+egret,Reddish Egret - Egretta rufescens,redegr
+egret,Slaty Egret - Egretta vinaceigula,slaegr1
+egret,Black Heron - Egretta ardesiaca,blaher1
+egret,Pacific Reef-Heron (Pacific Reef-Egret) - Egretta sacra,pacreh1
+egret,Chinese Egret - Egretta eulophotes,chiegr
+egret,Snowy Egret - Egretta thula,snoegr
+egret,Little Egret - Egretta garzetta,litegr
+egret,Western Reef-Heron (Western Reef-Egret) - Egretta gularis,werher
+egret,Pied Heron - Egretta picata,pieher2
+egret,White-faced Heron - Egretta novaehollandiae,whfher1
+egret,Western Cattle Egret - Bubulcus ibis,categr1
+egret,Eastern Cattle Egret - Bubulcus coromandus,categr2
+egret,Great Egret - Ardea alba,greegr
+egret,Yellow-billed Egret - Ardea brachyrhyncha,integr3
+egret,Intermediate Egret (Medium Egret) - Ardea intermedia,integr1
+egret,Plumed Egret - Ardea plumifera,integr2
+Cattle Egret,Western Cattle Egret - Bubulcus ibis,categr1
+Cattle Egret,Eastern Cattle Egret - Bubulcus coromandus,categr2
+Pied Bushchat,Pied Bushchat - Saxicola caprata,piebus1
+Warbler,Speckled Warbler - Pyrrholaemus sagittatus,spewar3
+Warbler,Mountain Mouse-Warbler - Crateroscelis robusta,momwar1
+Warbler,Rusty Mouse-Warbler - Crateroscelis murina,rumwar1
+Warbler,Bicolored Mouse-Warbler - Aethomyias nigrorufus,bimwar1
+Warbler,Moustached Grass-Warbler - Melocichla mentalis,mogwar1
+Warbler,Victorin's Warbler - Cryptillas victorini,viswar1
+Warbler,Leyte Plumed-Warbler - Micromacronus leytensis,mitbab1
+Warbler,Mindanao Plumed-Warbler - Micromacronus sordidus,minmib1
+Warbler,Red-winged Grey Warbler - Drymocichla incana,rwgwar2
+Warbler,Roberts's Warbler - Oreophilais robertsi,robpri1
+Warbler,Namaqua Warbler - Phragmacia substriata,nampri1
+Warbler,White-tailed Warbler - Poliolais lopezi,whtwar1
+Warbler,Miombo Wren-Warbler - Calamonastes undosus,miowrw2
+Warbler,Stierling's Wren-Warbler - Calamonastes stierlingi,miowrw3
+Warbler,Grey Wren-Warbler - Calamonastes simplex,grywrw1
+Warbler,Barred Wren-Warbler - Calamonastes fasciolatus,bawwar1
+Warbler,Buff-bellied Warbler - Phyllolais pulchella,bubwar2
+Warbler,Kopje Warbler - Euryptila subcinnamomea,kopwar1
+Warbler,Mrs. Moreau's Warbler - Scepomycter winifredae,mrmwar1
+Warbler,Socotra Warbler - Incana incana,socwar2
+Warbler,Rufous-eared Warbler - Malcorus pectoralis,ruewar2
+Warbler,Black-capped Rufous-Warbler - Bathmocercus cerviniventris,bkcruw1
+Warbler,Black-faced Rufous-Warbler - Bathmocercus rufus,bkfruw1
+Warbler,Oriole Warbler - Hypergerus atriceps,oriwar2
+Warbler,Grey-capped Warbler - Eminia lepida,gycwar3
+Warbler,Grauer's Warbler - Graueria vittata,grawar1
+Warbler,Aldabra Brush-Warbler - Nesillas aldabrana,albwar1
+Warbler,Malagasy Brush-Warbler - Nesillas typica,malbrw1
+Warbler,Subdesert Brush-Warbler - Nesillas lantzii,subbrw1
+Warbler,Grande Comore Brush-Warbler - Nesillas brevicaudata,gcbwar1
+Warbler,Moheli Brush-Warbler - Nesillas mariae,mohbrw1
+Warbler,Papyrus Yellow-Warbler - Calamonastides gracilirostris,paywar1
+Warbler,Thick-billed Warbler - Arundinax aedon,thbwar1
+Warbler,Booted Warbler - Iduna caligata,boowar1
+Warbler,Sykes's Warbler - Iduna rama,sykwar2
+Warbler,Eastern Olivaceous Warbler - Iduna pallida,eaowar1
+Warbler,Western Olivaceous Warbler - Iduna opaca,weowar1
+Warbler,African Yellow-Warbler - Iduna natalensis,afywar1
+Warbler,Mountain Yellow-Warbler - Iduna similis,moywar1
+Warbler,Upcher's Warbler - Hippolais languida,upcwar1
+Warbler,Olive-tree Warbler - Hippolais olivetorum,oltwar1
+Warbler,Melodious Warbler - Hippolais polyglotta,melwar1
+Warbler,Icterine Warbler - Hippolais icterina,ictwar1
+Warbler,Aquatic Warbler - Acrocephalus paludicola,aquwar1
+Warbler,Black-browed Reed Warbler - Acrocephalus bistrigiceps,bbrwar1
+Warbler,Streaked Reed Warbler - Acrocephalus sorghophilus,strwar1
+Warbler,Moustached Warbler - Acrocephalus melanopogon,mouwar1
+Warbler,Sedge Warbler - Acrocephalus schoenobaenus,sedwar1
+Warbler,Paddyfield Warbler - Acrocephalus agricola,padwar1
+Warbler,Blunt-winged Warbler - Acrocephalus concinens,blwwar1
+Warbler,Manchurian Reed Warbler - Acrocephalus tangorum,manrew1
+Warbler,Blyth's Reed Warbler - Acrocephalus dumetorum,blrwar1
+Warbler,Large-billed Reed Warbler - Acrocephalus orinus,labrew1
+Warbler,Marsh Warbler - Acrocephalus palustris,marwar3
+Warbler,Common Reed Warbler - Acrocephalus scirpaceus,eurwar1
+Warbler,Basra Reed Warbler - Acrocephalus griseldis,barwar2
+Warbler,Lesser Swamp Warbler - Acrocephalus gracilirostris,leswar1
+Warbler,Greater Swamp Warbler - Acrocephalus rufescens,grswar2
+Warbler,Cape Verde Swamp Warbler - Acrocephalus brevipennis,cvswar1
+Warbler,Madagascar Swamp Warbler - Acrocephalus newtoni,maswar1
+Warbler,Rodrigues Warbler - Acrocephalus rodericanus,rodbrw1
+Warbler,Seychelles Warbler - Acrocephalus sechellensis,sebwar1
+Warbler,Great Reed Warbler - Acrocephalus arundinaceus,grrwar1
+Warbler,Oriental Reed Warbler - Acrocephalus orientalis,orrwar1
+Warbler,Clamorous Reed Warbler (Indian Great Reed Warbler) - Acrocephalus stentoreus,clrwar1
+Warbler,Nightingale Reed Warbler - Acrocephalus luscinius,nigrew1
+Warbler,Saipan Reed Warbler - Acrocephalus hiwae,sairew1
+Warbler,Australian Reed Warbler - Acrocephalus australis,aurwar1
+Warbler,Caroline Reed Warbler - Acrocephalus syrinx,carrew1
+Warbler,Aguiguan Reed Warbler - Acrocephalus nijoi,agurew1
+Warbler,Kiritimati Reed Warbler - Acrocephalus aequinoctialis,chiwar1
+Warbler,Southern Marquesan Reed Warbler - Acrocephalus mendanae,marwar2
+Warbler,Pagan Reed Warbler - Acrocephalus yamashinae,pagrew1
+Warbler,Nauru Reed Warbler - Acrocephalus rehsei,narwar1
+Warbler,Pitcairn Reed Warbler - Acrocephalus vaughani,pirwar2
+Warbler,Henderson Island Reed Warbler - Acrocephalus taiti,hirwar1
+Warbler,Cook Islands Reed Warbler - Acrocephalus kerearako,cirwar2
+Warbler,Rimitara Reed Warbler - Acrocephalus rimitarae,rimrew1
+Warbler,Society Islands Reed Warbler - Acrocephalus musae,soirew1
+Warbler,Tahiti Reed Warbler - Acrocephalus caffer,tahrew1
+Warbler,Moorea Reed Warbler - Acrocephalus longirostris,moorew1
+Warbler,Northern Marquesan Reed Warbler - Acrocephalus percernis,marrew2
+Warbler,Tuamotu Reed Warbler - Acrocephalus atyphus,turwar1
+Warbler,Mangareva Reed Warbler - Acrocephalus astrolabii,manrew2
+Warbler,Cordillera Ground-Warbler - Robsonius rabori,luzwrb1
+Warbler,Sierra Madre Ground-Warbler - Robsonius thompsoni,simgrw1
+Warbler,Bicol Ground-Warbler - Robsonius sorsogonensis,gybbab2
+Warbler,Gray's Grasshopper Warbler - Helopsaltes fasciolatus,grgwar1
+Warbler,Sakhalin Grasshopper Warbler - Helopsaltes amnicola,sakwar1
+Warbler,Pallas's Grasshopper Warbler - Helopsaltes certhiola,pagwar1
+Warbler,Middendorff's Grasshopper Warbler - Helopsaltes ochotensis,migwar
+Warbler,Pleske's Grasshopper Warbler - Helopsaltes pleskei,plewar1
+Warbler,Lanceolated Warbler - Locustella lanceolata,lanwar
+Warbler,Bamboo Warbler - Locustella alfredi,baswar1
+Warbler,River Warbler - Locustella fluviatilis,eurwar2
+Warbler,Savi's Warbler - Locustella luscinioides,savwar1
+Warbler,Brown Bush Warbler - Locustella luteoventris,brbwar2
+Warbler,Common Grasshopper Warbler - Locustella naevia,cogwar1
+Warbler,Long-billed Bush Warbler - Locustella major,lbbwar1
+Warbler,Chinese Bush Warbler - Locustella tacsanowskia,chbwar1
+Warbler,Friendly Bush Warbler - Locustella accentor,frbwar1
+Warbler,Long-tailed Bush Warbler - Locustella caudata,ltbwar1
+Warbler,Sulawesi Bush Warbler - Locustella castanea,cbbwar2
+Warbler,Seram Bush Warbler - Locustella musculus,cbbwar4
+Warbler,Taliabu Bush Warbler - Locustella portenta,talgrw1
+Warbler,Buru Bush Warbler - Locustella disturbans,cbbwar3
+Warbler,Baikal Bush Warbler - Locustella davidi,spobuw1
+Warbler,West Himalayan Bush Warbler - Locustella kashmirensis,spobuw2
+Warbler,Spotted Bush Warbler - Locustella thoracica,spobuw3
+Warbler,Taiwan Bush Warbler - Locustella alishanensis,taibuw1
+Warbler,Russet Bush Warbler - Locustella mandelli,rubwar1
+Warbler,Dalat Bush Warbler - Locustella idonea,dabwar1
+Warbler,Sichuan Bush Warbler - Locustella chengi,sicbuw1
+Warbler,Javan Bush Warbler - Locustella montis,jabwar1
+Warbler,Benguet Bush Warbler - Locustella seebohmi,benbuw1
+Warbler,Sri Lanka Bush Warbler - Elaphrornis palliseri,ceybuw1
+Warbler,Knysna Warbler - Bradypterus sylvaticus,knswar1
+Warbler,Bangwa Warbler - Bradypterus bangwaensis,banscw1
+Warbler,Barratt's Warbler - Bradypterus barratti,afswar1
+Warbler,Evergreen-forest Warbler - Bradypterus lopezi,camscw1
+Warbler,Cinnamon Bracken-Warbler - Bradypterus cinnamomeus,cibwar1
+Warbler,Dja River Swamp Warbler - Bradypterus grandis,jrswar1
+Warbler,Little Rush Warbler - Bradypterus baboecala,afbwar1
+Warbler,White-winged Swamp Warbler - Bradypterus carpalis,wwswar1
+Warbler,Grauer's Swamp Warbler - Bradypterus graueri,grswar1
+Warbler,Highland Rush Warbler - Bradypterus centralis,hirwar2
+Warbler,Cryptic Warbler - Cryptosylvicola randrianasoloi,crywar1
+Warbler,Rand's Warbler - Randia pseudozosterops,ranwar1
+Warbler,Wood Warbler - Phylloscopus sibilatrix,woowar
+Warbler,Western Bonelli's Warbler - Phylloscopus bonelli,webwar1
+Warbler,Eastern Bonelli's Warbler - Phylloscopus orientalis,eabwar1
+Warbler,Ashy-throated Warbler - Phylloscopus maculipennis,astwar2
+Warbler,Buff-barred Warbler - Phylloscopus pulcher,bubwar1
+Warbler,Yellow-browed Warbler - Phylloscopus inornatus,yebwar3
+Warbler,Hume's Warbler - Phylloscopus humei,humwar1
+Warbler,Brooks's Leaf Warbler - Phylloscopus subviridis,brlwar1
+Warbler,Chinese Leaf Warbler - Phylloscopus yunnanensis,chilew1
+Warbler,Pallas's Leaf Warbler - Phylloscopus proregulus,palwar5
+Warbler,Gansu Leaf Warbler - Phylloscopus kansuensis,ganlew1
+Warbler,Lemon-rumped Warbler - Phylloscopus chloronotus,parwar1
+Warbler,Sichuan Leaf Warbler - Phylloscopus forresti,siclew1
+Warbler,Tytler's Leaf Warbler - Phylloscopus tytleri,tylwar1
+Warbler,Radde's Warbler - Phylloscopus schwarzi,radwar1
+Warbler,Yellow-streaked Warbler - Phylloscopus armandii,yeswar1
+Warbler,Sulphur-bellied Warbler - Phylloscopus griseolus,subwar2
+Warbler,Tickell's Leaf Warbler - Phylloscopus affinis,y00989
+Warbler,Dusky Warbler - Phylloscopus fuscatus,duswar
+Warbler,Smoky Warbler - Phylloscopus fuligiventer,smowar1
+Warbler,Plain Leaf Warbler - Phylloscopus neglectus,pllwar2
+Warbler,Buff-throated Warbler - Phylloscopus subaffinis,butwar1
+drongo,Fork-tailed Drongo-Cuckoo - Surniculus dicruroides,asidrc2
+drongo,Philippine Drongo-Cuckoo - Surniculus velutinus,phidrc1
+drongo,Square-tailed Drongo-Cuckoo - Surniculus lugubris,asidrc3
+drongo,Moluccan Drongo-Cuckoo - Surniculus musschenbroeki,asidrc4
+drongo,Drongo Fantail - Chaetorhynchus papuensis,papdro1
+drongo,Sharpe's Drongo - Dicrurus sharpei,shadro2
+drongo,Square-tailed Drongo - Dicrurus ludwigii,cstdro1
+drongo,Shining Drongo - Dicrurus atripennis,shidro1
+drongo,Fork-tailed Drongo - Dicrurus adsimilis,fotdro5
+drongo,Velvet-mantled Drongo - Dicrurus modestus,vemdro6
+drongo,Aldabra Drongo - Dicrurus aldabranus,alddro1
+drongo,Comoro Drongo - Dicrurus fuscipennis,comdro1
+drongo,Crested Drongo - Dicrurus forficatus,credro1
+drongo,Mayotte Drongo - Dicrurus waldenii,maydro1
+drongo,Black Drongo - Dicrurus macrocercus,bladro1
+drongo,Ashy Drongo - Dicrurus leucophaeus,ashdro1
+drongo,White-bellied Drongo - Dicrurus caerulescens,whbdro1
+drongo,Crow-billed Drongo - Dicrurus annectens,crbdro1
+drongo,Bronzed Drongo - Dicrurus aeneus,brodro1
+drongo,Lesser Racket-tailed Drongo - Dicrurus remifer,lrtdro1
+drongo,Hair-crested Drongo (Spangled Drongo) - Dicrurus hottentottus,hacdro1
+drongo,Short-tailed Drongo - Dicrurus striatus,hacdro3
+drongo,Palawan Drongo - Dicrurus palawanensis,paldro1
+drongo,Sulawesi Drongo - Dicrurus montanus,suldro1
+drongo,Sumatran Drongo - Dicrurus sumatranus,sumdro1
+drongo,Wallacean Drongo - Dicrurus densus,waldro1
+drongo,Ribbon-tailed Drongo - Dicrurus megarhynchus,ritdro1
+drongo,Australian Spangled Drongo - Dicrurus bracteatus,spadro1
+drongo,Tablas Drongo - Dicrurus menagei,tabdro1
+drongo,Andaman Drongo - Dicrurus andamanensis,anddro1
+drongo,Greater Racket-tailed Drongo - Dicrurus paradiseus,grtdro1
+drongo,Sri Lanka Drongo - Dicrurus lophorinus,srldro1
+Medium Egret,Intermediate Egret (Medium Egret) - Ardea intermedia,integr1
+Cormorant,Little Pied Cormorant - Microcarbo melanoleucos,lipcor1
+Cormorant,Long-tailed Cormorant - Microcarbo africanus,lotcor1
+Cormorant,Crowned Cormorant - Microcarbo coronatus,crocor1
+Cormorant,Little Cormorant - Microcarbo niger,litcor1
+Cormorant,Pygmy Cormorant - Microcarbo pygmaeus,pygcor2
+Cormorant,Red-legged Cormorant - Poikilocarbo gaimardi,relcor1
+Cormorant,Brandt's Cormorant - Urile penicillatus,bracor
+Cormorant,Red-faced Cormorant - Urile urile,refcor
+Cormorant,Pelagic Cormorant - Urile pelagicus,pelcor
+Cormorant,Pallas's Cormorant - Urile perspicillatus,palcor1
+Cormorant,Bank Cormorant - Phalacrocorax neglectus,bancor1
+Cormorant,Cape Cormorant - Phalacrocorax capensis,capcor1
+Cormorant,Great Cormorant - Phalacrocorax carbo,grecor
+Cormorant,Japanese Cormorant - Phalacrocorax capillatus,japcor1
+Cormorant,Socotra Cormorant - Phalacrocorax nigrogularis,soccor1
+Cormorant,Indian Cormorant (Indian Shag) - Phalacrocorax fuscicollis,indcor1
+Cormorant,Little Black Cormorant - Phalacrocorax sulcirostris,libcor1
+Cormorant,Pied Cormorant - Phalacrocorax varius,piecor1
+Cormorant,Black-faced Cormorant - Phalacrocorax fuscescens,blfcor1
+Cormorant,Flightless Cormorant - Nannopterum harrisi,flicor1
+Cormorant,Double-crested Cormorant - Nannopterum auritum,doccor
+Cormorant,Neotropic Cormorant - Nannopterum brasilianum,neocor
+Cormorant,Magellanic Cormorant - Leucocarbo magellanicus,magcor1
+Cormorant,Guanay Cormorant - Leucocarbo bougainvillii,guacor1
+Cormorant,Imperial Cormorant - Leucocarbo atriceps,impcor1
+Munia,Pictorella Munia - Heteromunia pectoralis,picmun1
+Munia,Madagascar Munia - Lepidopygia nana,madmun1
+Munia,Indian Silverbill (White-throated Munia) - Euodice malabarica,indsil
+Munia,Streak-headed Munia - Mayrimunia tristissima,sthmun2
+Munia,White-spotted Munia - Mayrimunia leucosticta,sthmun3
+Munia,Scaly-breasted Munia (Spotted Munia) - Lonchura punctulata,nutman
+Munia,Black-throated Munia - Lonchura kelaarti,bltmun1
+Munia,Black-faced Munia - Lonchura molucca,blfmun1
+Munia,White-rumped Munia - Lonchura striata,whrmun
+Munia,Dusky Munia - Lonchura fuscans,dusmun1
+Munia,White-bellied Munia - Lonchura leucogastra,whbmun1
+Munia,Javan Munia - Lonchura leucogastroides,javmun1
+Munia,Tricolored Munia (Black-headed Munia) - Lonchura malacca,trimun
+Munia,Chestnut Munia - Lonchura atricapilla,chemun
+Munia,White-capped Munia - Lonchura ferruginosa,whcmun1
+Munia,White-headed Munia - Lonchura maja,whhmun1
+Munia,Pale-headed Munia - Lonchura pallida,pahmun1
+Munia,Grand Munia - Lonchura grandis,gramun1
+Munia,Black-breasted Munia - Lonchura teerinki,blbmun1
+Munia,Snow Mountain Munia - Lonchura montana,snmmun1
+Munia,Alpine Munia - Lonchura monticola,alpmun1
+Munia,Grey-banded Munia - Lonchura vana,gybmun1
+Munia,Grey-crowned Munia - Lonchura nevermanni,gycmun1
+Munia,Grey-headed Munia - Lonchura caniceps,gyhmun1
+Munia,Hooded Munia - Lonchura spectabilis,hoomun1
+Munia,New Ireland Munia - Lonchura forbesi,neimun1
+Munia,Mottled Munia - Lonchura hunsteini,motmun1
+Munia,New Hanover Munia - Lonchura nigerrima,nehmun1
+Munia,Yellow-rumped Munia - Lonchura flaviprymna,yermun1
+Munia,Five-colored Munia - Lonchura quinticolor,ficmun1
+Munia,Chestnut-breasted Munia - Lonchura castaneothorax,chbmun1
+Munia,Black Munia - Lonchura stygia,blamun1
+Munia,Bismarck Munia - Lonchura melaena,bismun1
+Grey Heron,Grey Heron - Ardea cinerea,graher1
+Coot,Red-fronted Coot - Fulica rufifrons,refcoo1
+Coot,Horned Coot - Fulica cornuta,horcoo1
+Coot,Giant Coot - Fulica gigantea,giacoo1
+Coot,Red-gartered Coot - Fulica armillata,regcoo1
+Coot,Eurasian Coot - Fulica atra,eurcoo
+Coot,Mascarene Coot - Fulica newtonii,mascoo1
+Coot,Red-knobbed Coot - Fulica cristata,rekcoo1
+Coot,Hawaiian Coot - Fulica alai,hawcoo
+Coot,American Coot - Fulica americana,y00475
+Coot,Slate-colored Coot - Fulica ardesiaca,slccoo1
+Coot,White-winged Coot - Fulica leucoptera,whwcoo1
+Brahminy Kite,Brahminy Kite - Haliastur indus,brakit1
+green bee-eater,African Green Bee-eater - Merops viridissimus,grnbee1
+green bee-eater,Arabian Green Bee-eater - Merops cyanophrys,grnbee2
+green bee-eater,Asian Green Bee-eater - Merops orientalis,grnbee3
+Pintail,White-cheeked Pintail - Anas bahamensis,whcpin
+Pintail,Northern Pintail - Anas acuta,norpin
+Pintail,Eaton's Pintail - Anas eatoni,eatpin1
+Pintail,Yellow-billed Pintail - Anas georgica,yebpin1
+Shoveler,Red Shoveler - Spatula platalea,redsho1
+Shoveler,Cape Shoveler - Spatula smithii,capsho1
+Shoveler,Australasian Shoveler - Spatula rhynchotis,aussho1
+Shoveler,Northern Shoveler - Spatula clypeata,norsho
+Marsh Harrier,Western Marsh Harrier - Circus aeruginosus,wemhar1
+Marsh Harrier,African Marsh Harrier - Circus ranivorus,afmhar1
+Marsh Harrier,Eastern Marsh Harrier - Circus spilonotus,easmah1
+Red-wattled Lapwing,Red-wattled Lapwing - Vanellus indicus,rewlap1
+Stilt,Black-winged Stilt - Himantopus himantopus,bkwsti
+Stilt,Pied Stilt - Himantopus leucocephalus,piesti1
+Stilt,Black Stilt - Himantopus novaezelandiae,blasti1
+Stilt,Black-necked Stilt - Himantopus mexicanus,bknsti
+Stilt,Banded Stilt - Cladorhynchus leucocephalus,bansti1
+Stilt,Stilt Sandpiper - Calidris himantopus,stisan
+Stilt,Australian Pratincole - Stiltia isabella,auspra1
+Spot-bill,Indian Spot-billed Duck - Anas poecilorhyncha,isbduc1
+Spot-bill,Eastern Spot-billed Duck - Anas zonorhyncha,spbduc
+Spot-bill,Spot-billed Pelican - Pelecanus philippensis,spbpel1
+Spot-bill,Spot-billed Toucanet - Selenidera maculirostris,spbtou1
+Spot-bill,Spot-billed Ground-Tyrant - Muscisaxicola maculirostris,sbgtyr1
+Flycatcher,Tropical Royal Flycatcher - Onychorhynchus coronatus,royfly1
+Flycatcher,Atlantic Royal Flycatcher - Onychorhynchus swainsoni,royfly5
+Flycatcher,Ruddy-tailed Flycatcher - Terenotriccus erythrurus,rutfly2
+Flycatcher,Tawny-breasted Flycatcher - Myiobius villosus,tabfly1
+Flycatcher,Sulphur-rumped Flycatcher - Myiobius sulphureipygius,surfly1
+Flycatcher,Whiskered Flycatcher - Myiobius barbatus,whifly1
+Flycatcher,Black-tailed Flycatcher - Myiobius atricaudus,bltfly1
+Flycatcher,Streak-necked Flycatcher - Mionectes striaticollis,stnfly1
+Flycatcher,Olive-streaked Flycatcher - Mionectes olivaceus,olsfly2
+Flycatcher,Olive-striped Flycatcher - Mionectes galbinus,olsfly1
+Flycatcher,Ochre-bellied Flycatcher - Mionectes oleagineus,ocbfly1
+Flycatcher,McConnell's Flycatcher - Mionectes macconnelli,mccfly1
+Flycatcher,Sierra de Lema Flycatcher - Mionectes roraimae,mccfly3
+Flycatcher,Grey-hooded Flycatcher - Mionectes rufiventris,gyhfly1
+Flycatcher,Sepia-capped Flycatcher - Leptopogon amaurocephalus,secfly1
+Flycatcher,Slaty-capped Flycatcher - Leptopogon superciliaris,slcfly1
+Flycatcher,Rufous-breasted Flycatcher - Leptopogon rufipectus,rubfly2
+Flycatcher,Inca Flycatcher - Leptopogon taczanowskii,incfly1
+Flycatcher,Rufous-crowned Tody-Flycatcher - Poecilotriccus ruficeps,rcttyr1
+Flycatcher,Johnson's Tody-Flycatcher - Poecilotriccus luluae,johtot1
+Flycatcher,White-cheeked Tody-Flycatcher - Poecilotriccus albifacies,wcttyr1
+Flycatcher,Black-and-white Tody-Flycatcher - Poecilotriccus capitalis,bawtyr1
+Flycatcher,Buff-cheeked Tody-Flycatcher - Poecilotriccus senex,buctof1
+Flycatcher,Ruddy Tody-Flycatcher - Poecilotriccus russatus,rudtof1
+Flycatcher,Ochre-faced Tody-Flycatcher - Poecilotriccus plumbeiceps,ocftof1
+Flycatcher,Smoky-fronted Tody-Flycatcher - Poecilotriccus fumifrons,smftof1
+Flycatcher,Rusty-fronted Tody-Flycatcher - Poecilotriccus latirostris,ruftof1
+Flycatcher,Slate-headed Tody-Flycatcher - Poecilotriccus sylvia,shtfly1
+Flycatcher,Golden-winged Tody-Flycatcher - Poecilotriccus calopterus,gowtof1
+Flycatcher,Black-backed Tody-Flycatcher - Poecilotriccus pulchellus,bkbtof1
+Flycatcher,Spotted Tody-Flycatcher - Todirostrum maculatum,sptfly1
+Flycatcher,Grey-headed Tody-Flycatcher - Todirostrum poliocephalum,gyhtof1
+Flycatcher,Common Tody-Flycatcher - Todirostrum cinereum,cotfly1
+Flycatcher,Maracaibo Tody-Flycatcher - Todirostrum viridanum,matfly1
+Flycatcher,Black-headed Tody-Flycatcher - Todirostrum nigriceps,bhtfly1
+Flycatcher,Painted Tody-Flycatcher - Todirostrum pictum,patfly1
+Flycatcher,Yellow-browed Tody-Flycatcher - Todirostrum chrysocrotaphum,ybtfly1
+Flycatcher,Cinnamon Flycatcher - Pyrrhomyias cinnamomeus,cinfly2
+Flycatcher,Cliff Flycatcher - Hirundinea ferruginea,clifly1
+Flycatcher,Ornate Flycatcher - Myiotriccus ornatus,ornfly1
+Flycatcher,Handsome Flycatcher - Nephelomyias pulcher,hanfly1
+Flycatcher,Orange-banded Flycatcher - Nephelomyias lintoni,orbfly1
+Flycatcher,Ochraceous-breasted Flycatcher - Nephelomyias ochraceiventris,ocbfly2
+Flycatcher,Suiriri Flycatcher - Suiriri suiriri,suifly1
+Flycatcher,Flavescent Flycatcher - Myiophobus flavicans,flafly2
+Flycatcher,Orange-crested Flycatcher - Myiophobus phoenicomitra,orcfly1
+Flycatcher,Unadorned Flycatcher - Myiophobus inornatus,unafly1
+Flycatcher,Roraiman Flycatcher - Myiophobus roraimae,rorfly1
+Flycatcher,Olive-chested Flycatcher - Myiophobus cryptoxanthus,olcfly1
+Flycatcher,Bran-colored Flycatcher - Myiophobus fasciatus,brcfly1
+Flycatcher,Mouse-grey Flycatcher - Myiophobus crypterythrus,brcfly4
+Flycatcher,Rufescent Flycatcher - Myiophobus rufescens,brcfly3
+Flycatcher,Euler's Flycatcher - Lathrotriccus euleri,eulfly1
+Flycatcher,Grey-breasted Flycatcher - Lathrotriccus griseipectus,gybfly1
+Flycatcher,Tawny-chested Flycatcher - Aphanotriccus capitalis,tacfly1
+Flycatcher,Black-billed Flycatcher - Aphanotriccus audax,blbfly1
+Flycatcher,Belted Flycatcher - Xenotriccus callizonus,belfly1
+Flycatcher,Pileated Flycatcher - Xenotriccus mexicanus,pilfly1
+Flycatcher,Tufted Flycatcher - Mitrephanes phaeocercus,tuffly
+Flycatcher,Olive Flycatcher - Mitrephanes olivaceus,olifly2
+Flycatcher,Olive-sided Flycatcher - Contopus cooperi,olsfly
+Flycatcher,Fuscous Flycatcher - Cnemotriccus fuscatus,fusfly1
+Flycatcher,Yellow-bellied Flycatcher - Empidonax flaviventris,yebfly
+Flycatcher,Acadian Flycatcher - Empidonax virescens,acafly
+Flycatcher,Alder Flycatcher - Empidonax alnorum,aldfly
+Flycatcher,Willow Flycatcher - Empidonax traillii,wilfly
+Flycatcher,White-throated Flycatcher - Empidonax albigularis,whtfly1
+Flycatcher,Least Flycatcher - Empidonax minimus,leafly
+Flycatcher,Hammond's Flycatcher - Empidonax hammondii,hamfly
+Flycatcher,Grey Flycatcher - Empidonax wrightii,gryfly
+Flycatcher,Dusky Flycatcher - Empidonax oberholseri,dusfly
+Flycatcher,Pine Flycatcher - Empidonax affinis,pinfly1
+Flycatcher,Western Flycatcher - Empidonax difficilis,wesfly
+Flycatcher,Yellowish Flycatcher - Empidonax flavescens,yelfly1
+Flycatcher,Buff-breasted Flycatcher - Empidonax fulvifrons,bubfly
+Flycatcher,Black-capped Flycatcher - Empidonax atriceps,blcfly1
+Flycatcher,Chapada Flycatcher - Guyramemua affine,chafly3
+Flycatcher,Northern Scrub-Flycatcher - Sublegatus arenarum,nosfly1
+Flycatcher,Amazonian Scrub-Flycatcher - Sublegatus obscurior,amsfly1
+Flycatcher,Southern Scrub-Flycatcher - Sublegatus modestus,sosfly1
+Flycatcher,Vermilion Flycatcher - Pyrocephalus rubinus,verfly
+Flycatcher,Brujo Flycatcher - Pyrocephalus nanus,brufly1
+Flycatcher,Flammulated Flycatcher - Ramphotrigon flammulatum,flafly1
+Flycatcher,Rufous Flycatcher - Myiarchus semirufus,ruffly1
+Flycatcher,Yucatan Flycatcher - Myiarchus yucatanensis,yucfly1
+Flycatcher,Sad Flycatcher - Myiarchus barbirostris,sadfly1
+Flycatcher,Dusky-capped Flycatcher - Myiarchus tuberculifer,ducfly
+Flycatcher,Swainson's Flycatcher - Myiarchus swainsoni,swafly1
+Flycatcher,Venezuelan Flycatcher - Myiarchus venezuelensis,venfly1
+Flycatcher,Panama Flycatcher - Myiarchus panamensis,panfly1
+Flycatcher,Short-crested Flycatcher - Myiarchus ferox,shcfly1
+Flycatcher,Apical Flycatcher - Myiarchus apicalis,apifly1
+Flycatcher,Sooty-crowned Flycatcher - Myiarchus phaeocephalus,socfly2
+Flycatcher,Pale-edged Flycatcher - Myiarchus cephalotes,paefly1
+Flycatcher,Ash-throated Flycatcher - Myiarchus cinerascens,astfly
+Flycatcher,Nutting's Flycatcher - Myiarchus nuttingi,nutfly
+Flycatcher,Great Crested Flycatcher - Myiarchus crinitus,grcfly
+Flycatcher,Brown-crested Flycatcher - Myiarchus tyrannulus,bncfly
+Flycatcher,Galapagos Flycatcher - Myiarchus magnirostris,galfly1
+Flycatcher,Grenada Flycatcher - Myiarchus nugator,grefly1
+Flycatcher,Rufous-tailed Flycatcher - Myiarchus validus,rutfly1
+Flycatcher,La Sagra's Flycatcher - Myiarchus sagrae,lasfly
+Flycatcher,Stolid Flycatcher - Myiarchus stolidus,stofly1
+Flycatcher,Puerto Rican Flycatcher - Myiarchus antillarum,purfly1
+Flycatcher,Lesser Antillean Flycatcher - Myiarchus oberi,leafly1
+Flycatcher,Boat-billed Flycatcher - Megarynchus pitangua,bobfly1
+Flycatcher,Rusty-margined Flycatcher - Myiozetetes cayanensis,rumfly1
+Flycatcher,Social Flycatcher - Myiozetetes similis,socfly1
+Flycatcher,Grey-capped Flycatcher - Myiozetetes granadensis,grcfly1
+Flycatcher,Dusky-chested Flycatcher - Myiozetetes luteiventris,ducfly2
+Flycatcher,White-bearded Flycatcher - Phelpsia inornata,whbfly1
+Flycatcher,White-ringed Flycatcher - Conopias albovittatus,whrfly
+Flycatcher,Yellow-throated Flycatcher - Conopias parvus,yetfly2
+Flycatcher,Three-striped Flycatcher - Conopias trivirgatus,thsfly2
+Flycatcher,Lemon-browed Flycatcher - Conopias cinchoneti,lebfly2
+Flycatcher,Golden-bellied Flycatcher - Myiodynastes hemichrysus,gobfly1
+Flycatcher,Golden-crowned Flycatcher - Myiodynastes chrysocephalus,gocfly1
+Flycatcher,Baird's Flycatcher - Myiodynastes bairdii,baifly1
+Flycatcher,Streaked Flycatcher - Myiodynastes maculatus,strfly1
+Flycatcher,Sulphur-bellied Flycatcher - Myiodynastes luteiventris,subfly
+Flycatcher,Piratic Flycatcher - Legatus leucophaius,pirfly1
+Flycatcher,Variegated Flycatcher - Empidonomus varius,varfly
+Flycatcher,Crowned Slaty Flycatcher - Empidonomus aurantioatrocristatus,croslf1
+Flycatcher,Sulphury Flycatcher - Tyrannopsis sulphurea,sulfly1
+Flycatcher,Scissor-tailed Flycatcher - Tyrannus forficatus,sctfly
+Flycatcher,Fork-tailed Flycatcher - Tyrannus savana,fotfly
+Flycatcher,African Shrike-flycatcher - Megabyas flammulatus,afrshf1
+Flycatcher,Black-and-white Shrike-flycatcher - Bias musicus,bawfly1
+Flycatcher,Bar-winged Flycatcher-shrike - Hemipus picatus,bwfshr1
+Flycatcher,Black-winged Flycatcher-shrike - Hemipus hirundinaceus,bwfshr2
+Flycatcher,Ward's Flycatcher - Pseudobias wardi,warfly1
+Flycatcher,Cerulean Flycatcher - Eutrichomyias rowleyi,cepfly1
+Flycatcher,Blue-headed Crested Flycatcher - Trochocercus nitens,bhcfly1
+Flycatcher,African Crested Flycatcher - Trochocercus cyanomelas,afcfly1
+Flycatcher,Blue Paradise-Flycatcher - Terpsiphone cyanescens,blpfly1
+Flycatcher,Rufous Paradise-Flycatcher - Terpsiphone cinnamomea,rupfly1
+Flycatcher,Black Paradise-Flycatcher - Terpsiphone atrocaudata,japfly1
+Flycatcher,Amur Paradise-Flycatcher - Terpsiphone incei,amupaf1
+Flycatcher,Blyth's Paradise-Flycatcher - Terpsiphone affinis,blypaf1
+Flycatcher,Mascarene Paradise-Flycatcher - Terpsiphone bourbonnensis,mapfly2
+Flycatcher,Indian Paradise-Flycatcher - Terpsiphone paradisi,aspfly1
+Flycatcher,Sao Tome Paradise-Flycatcher - Terpsiphone atrochalybeia,stpfly1
+Flycatcher,Seychelles Paradise-Flycatcher - Terpsiphone corvina,sepfly1
+Flycatcher,Malagasy Paradise-Flycatcher - Terpsiphone mutata,mapfly1
+Flycatcher,Black-headed Paradise-Flycatcher - Terpsiphone rufiventer,bhpfly1
+Flycatcher,Bedford's Paradise-Flycatcher - Terpsiphone bedfordi,bepfly1
+Flycatcher,Rufous-vented Paradise-Flycatcher - Terpsiphone rufocinerea,rvpfly1
+Flycatcher,Bates's Paradise-Flycatcher - Terpsiphone batesi,batpaf1
+Flycatcher,African Paradise-Flycatcher - Terpsiphone viridis,afpfly1
+Flycatcher,Palau Flycatcher - Myiagra erythrops,palfly3
+Common Teal,Green-winged Teal (Common Teal) - Anas crecca,gnwtea
+Tawny eagle,Tawny Eagle - Aquila rapax,taweag1
+Red-rumped Swallow,Red-rumped Swallow - Cecropis daurica,rerswa1
+Little Cormorant,Little Pied Cormorant - Microcarbo melanoleucos,lipcor1
+Little Cormorant,Little Cormorant - Microcarbo niger,litcor1
+Little Cormorant,Little Black Cormorant - Phalacrocorax sulcirostris,libcor1
+Common Sandpiper,Common Sandpiper - Actitis hypoleucos,comsan
+Large Grey Babbler,Large Grey Babbler - Argya malcolmi,lagbab2
+Coppersmith,Coppersmith Barbet - Psilopogon haemacephalus,copbar1
+Iora,Common Iora - Aegithina tiphia,comior1
+Iora,White-tailed Iora (Marshall's Iora) - Aegithina nigrolutea,whtior1
+Iora,Green Iora - Aegithina viridissima,greior2
+Iora,Great Iora - Aegithina lafresnayei,greior1
+Oriole,Oriole Cuckooshrike - Lobotos oriolinus,oricus1
+Oriole,Oriole Whistler - Pachycephala orioloides,oriwhi1
+Oriole,Timor Oriole - Oriolus melanotis,timori1
+Oriole,Wetar Oriole - Oriolus finschi,timori3
+Oriole,Buru Oriole - Oriolus bouroensis,burori2
+Oriole,Tanimbar Oriole - Oriolus decipiens,burori3
+Oriole,Seram Oriole - Oriolus forsteni,serori1
+Oriole,Halmahera Oriole - Oriolus phaeochromus,halori1
+Oriole,Brown Oriole - Oriolus szalayi,broori1
+Oriole,Olive-backed Oriole - Oriolus sagittatus,olbori1
+Oriole,Green Oriole - Oriolus flavocinctus,greori1
+Oriole,Dark-throated Oriole - Oriolus xanthonotus,datori1
+Oriole,Ventriloquial Oriole - Oriolus consobrinus,datori7
+Oriole,White-lored Oriole - Oriolus albiloris,whlori1
+Oriole,Philippine Oriole - Oriolus steerii,phiori1
+Oriole,Isabela Oriole - Oriolus isabellae,isaori1
+Oriole,Eurasian Golden Oriole - Oriolus oriolus,eugori2
+Oriole,Indian Golden Oriole - Oriolus kundoo,ingori1
+Oriole,African Golden Oriole - Oriolus auratus,afgori2
+Oriole,Black-naped Oriole - Oriolus chinensis,blnori1
+Oriole,Slender-billed Oriole - Oriolus tenuirostris,slbori1
+Oriole,Green-headed Oriole - Oriolus chlorocephalus,grhori1
+Oriole,Sao Tome Oriole - Oriolus crassirostris,satori1
+Oriole,Western Black-headed Oriole - Oriolus brachyrynchus,wbhori1
+Oriole,Ethiopian Black-headed Oriole - Oriolus monacha,dahori1
+Oriole,African Black-headed Oriole - Oriolus larvatus,abhori1
+Oriole,Black-tailed Oriole - Oriolus percivali,bltori1
+Oriole,Black-winged Oriole - Oriolus nigripennis,blwori1
+Oriole,Black-hooded Oriole - Oriolus xanthornus,blhori1
+Oriole,Black Oriole - Oriolus hosii,blaori1
+Oriole,Black-and-crimson Oriole - Oriolus consanguineus,bacori1
+Oriole,Javan Oriole - Oriolus cruentus,bacori3
+Oriole,Maroon Oriole - Oriolus traillii,marori2
+Oriole,Silver Oriole - Oriolus mellianus,silori1
+Oriole,Oriole Warbler - Hypergerus atriceps,oriwar2
+Oriole,Oriole Finch - Linurgus olivaceus,orifin1
+Oriole,Hispaniolan Oriole - Icterus dominicensis,graori1
+Oriole,Cuban Oriole - Icterus melanopsis,graori2
+Oriole,Bahama Oriole - Icterus northropi,graori3
+Oriole,Puerto Rican Oriole - Icterus portoricensis,graori4
+Oriole,St. Lucia Oriole - Icterus laudabilis,stlori1
+Oriole,Montserrat Oriole - Icterus oberi,monori1
+Oriole,Martinique Oriole - Icterus bonana,marori1
+Oriole,Black-vented Oriole - Icterus wagleri,bkvori
+Oriole,Bar-winged Oriole - Icterus maculialatus,bawori1
+Oriole,Black-cowled Oriole - Icterus prosthemelas,bkcori
+Oriole,Orchard Oriole - Icterus spurius,orcori
+Oriole,Hooded Oriole - Icterus cucullatus,hooori
+Oriole,Yellow-backed Oriole - Icterus chrysater,yebori1
+Oriole,Orange-crowned Oriole - Icterus auricapillus,orcori1
+Oriole,White-edged Oriole - Icterus graceannae,wheori1
+Oriole,Yellow-tailed Oriole - Icterus mesomelas,yetori1
+Oriole,Epaulet Oriole - Icterus cayanensis,epaori1
+Oriole,Variable Oriole - Icterus pyrrhopterus,epaori4
+Oriole,Streak-backed Oriole - Icterus pustulatus,stbori
+Oriole,Bullock's Oriole - Icterus bullockii,bulori
+Oriole,Orange Oriole - Icterus auratus,oraori1
+Oriole,Jamaican Oriole - Icterus leucopteryx,jamori1
+Oriole,Yellow Oriole - Icterus nigrogularis,yelori1
+Oriole,Spot-breasted Oriole - Icterus pectoralis,spbori
+Oriole,Altamira Oriole - Icterus gularis,altori
+Oriole,Audubon's Oriole - Icterus graduacauda,audori
+Oriole,Baltimore Oriole - Icterus galbula,balori
+Oriole,Black-backed Oriole - Icterus abeillei,blbori1
+Oriole,Scott's Oriole - Icterus parisorum,scoori
+Oriole,Oriole Blackbird - Gymnomystax mexicanus,oribla1
+grey shrike,Grey Shrikethrush - Colluricincla harmonica,grysht1
+grey shrike,Grey-bellied Shrike-Tyrant - Agriornis micropterus,gybsht1
+grey shrike,Grey-backed Shrike - Lanius tephronotus,gybshr1
+grey shrike,Iberian Grey Shrike - Lanius meridionalis,ibgshr1
+grey shrike,Great Grey Shrike - Lanius excubitor,norshr1
+grey shrike,Lesser Grey Shrike - Lanius minor,legshr2
+grey shrike,Chinese Grey Shrike - Lanius sphenocercus,chgshr1
+dove,Dovekie - Alle alle,doveki
+dove,Stock Dove - Columba oenas,stodov1
+dove,Lemon Dove - Aplopelia larvata,lemdov2
+dove,Malagasy Turtle-Dove - Nesoenas picturatus,matdov1
+dove,Mauritius Turtle-Dove - Nesoenas cicur,mautud1
+dove,Rodrigues Turtle-Dove - Nesoenas rodericanus,rodtud1
+dove,European Turtle-Dove - Streptopelia turtur,eutdov
+dove,Dusky Turtle-Dove - Streptopelia lugens,dutdov1
+dove,Adamawa Turtle-Dove - Streptopelia hypopyrrha,adtdov1
+dove,Oriental Turtle-Dove - Streptopelia orientalis,ortdov
+dove,Sunda Collared-Dove - Streptopelia bitorquata,iscdov1
+dove,Philippine Collared-Dove - Streptopelia dusumieri,phicod1
+dove,Eurasian Collared-Dove - Streptopelia decaocto,eucdov
+dove,Burmese Collared-Dove - Streptopelia xanthocycla,eurcod2
+dove,African Collared-Dove - Streptopelia roseogrisea,afcdov1
+dove,White-winged Collared-Dove - Streptopelia reichenowi,wwcdov1
+dove,Mourning Collared-Dove - Streptopelia decipiens,afmdov1
+dove,Red-eyed Dove - Streptopelia semitorquata,reedov1
+dove,Ring-necked Dove - Streptopelia capicola,rindov
+dove,Vinaceous Dove - Streptopelia vinacea,vindov1
+dove,Red Collared-Dove (Red Turtle-Dove) - Streptopelia tranquebarica,recdov1
+dove,Spotted Dove - Spilopelia chinensis,spodov
+dove,Laughing Dove (Little Brown Dove) - Spilopelia senegalensis,laudov1
+dove,Barred Cuckoo-Dove - Macropygia unchall,bacdov1
+dove,Brown Cuckoo-Dove - Macropygia phasianella,brcdov1
+dove,Flores Sea Cuckoo-Dove - Macropygia macassariensis,ducdov1
+dove,Timor Cuckoo-Dove - Macropygia magna,timcud1
+dove,Tanimbar Cuckoo-Dove - Macropygia timorlaoensis,tancud1
+dove,Amboyna Cuckoo-Dove - Macropygia amboinensis,sbcdov1
+dove,Sultan's Cuckoo-Dove - Macropygia doreya,sulcud1
+dove,Andaman Cuckoo-Dove - Macropygia rufipennis,ancdov1
+dove,Philippine Cuckoo-Dove - Macropygia tenuirostris,phcdov1
+dove,Ruddy Cuckoo-Dove - Macropygia emiliana,rucdov1
+dove,Enggano Cuckoo-Dove - Macropygia cinnamomea,engcud1
+dove,Barusan Cuckoo-Dove - Macropygia modiglianii,barcud1
+dove,Black-billed Cuckoo-Dove - Macropygia nigrirostris,bbcdov1
+dove,Mackinlay's Cuckoo-Dove - Macropygia mackinlayi,macdov1
+dove,Little Cuckoo-Dove - Macropygia ruficeps,licdov1
+dove,Great Cuckoo-Dove - Reinwardtoena reinwardti,grcdov2
+dove,Pied Cuckoo-Dove - Reinwardtoena browni,picdov1
+dove,Crested Cuckoo-Dove - Reinwardtoena crassirostris,crcdov1
+dove,White-faced Cuckoo-Dove - Turacoena manadensis,wfcdov1
+dove,Sula Cuckoo-Dove - Turacoena sulaensis,sulcud2
+dove,Slaty Cuckoo-Dove - Turacoena modesta,slacud1
+dove,Emerald-spotted Wood-Dove - Turtur chalcospilos,eswdov1
+dove,Black-billed Wood-Dove - Turtur abyssinicus,bbwdov1
+dove,Blue-spotted Wood-Dove - Turtur afer,bswdov1
+dove,Tambourine Dove - Turtur tympanistria,tamdov1
+dove,Blue-headed Wood-Dove - Turtur brehmeri,bhwdov1
+dove,Namaqua Dove - Oena capensis,namdov1
+dove,Asian Emerald Dove - Chalcophaps indica,emedov2
+dove,Pacific Emerald Dove - Chalcophaps longirostris,emedov3
+dove,Stephan's Dove - Chalcophaps stephani,stedov1
+dove,Wetar Ground Dove - Pampusana hoedtii,wegdov1
+dove,Shy Ground Dove - Pampusana stairi,frgdov1
+dove,Santa Cruz Ground Dove - Pampusana sanctaecrucis,scgdov1
+dove,Thick-billed Ground Dove - Pampusana salamonis,tbgdov1
+dove,Tanna Ground Dove - Pampusana ferruginea,tangrd1
+dove,Bronze Ground Dove - Pampusana beccarii,brgdov1
+dove,Palau Ground Dove - Pampusana canifrons,pagdov1
+dove,White-bibbed Ground Dove - Pampusana jobiensis,wbgdov1
+dove,Marquesas Ground Dove - Pampusana rubescens,margrd1
+dove,Caroline Islands Ground Dove - Pampusana kubaryi,cigdov1
+dove,Polynesian Ground Dove - Pampusana erythroptera,pogdov1
+dove,White-throated Ground Dove - Pampusana xanthonura,wtgdov1
+dove,Norfolk Ground Dove - Pampusana norfolkensis,norgrd1
+dove,Diamond Dove - Geopelia cuneata,diadov1
+dove,Zebra Dove - Geopelia striata,zebdov
+dove,Peaceful Dove - Geopelia placida,peadov1
+dove,Barred Dove - Geopelia maugeus,bardov2
+dove,Bar-shouldered Dove - Geopelia humeralis,basdov1
+dove,Inca Dove - Columbina inca,incdov
+dove,Common Ground Dove - Columbina passerina,cogdov
+dove,Plain-breasted Ground Dove - Columbina minuta,pbgdov1
+dove,Ruddy Ground Dove - Columbina talpacoti,rugdov
+dove,Ecuadorian Ground Dove - Columbina buckleyi,ecgdov1
+dove,Scaled Dove - Columbina squammata,scadov1
+dove,Picui Ground Dove - Columbina picui,pigdov1
+dove,Croaking Ground Dove - Columbina cruziana,crgdov1
+dove,Blue-eyed Ground Dove - Columbina cyanopis,begdov2
+dove,Blue Ground Dove - Claravis pretiosa,blgdov1
+dove,Maroon-chested Ground Dove - Paraclaravis mondetoura,mcgdov1
+dove,Purple-winged Ground Dove - Paraclaravis geoffroyi,pwgdov1
+dove,Bare-faced Ground Dove - Metriopelia ceciliae,bfgdov1
+dove,Bare-eyed Ground Dove - Metriopelia morenoi,begdov1
+dove,Black-winged Ground Dove - Metriopelia melanoptera,bwgdov1
+dove,Golden-spotted Ground Dove - Metriopelia aymara,gsgdov1
+dove,Long-tailed Ground Dove - Uropelia campestris,ltgdov1
+dove,Blue-headed Quail-Dove - Starnoenas cyanocephala,bhqdov1
+dove,Purple Quail-Dove - Geotrygon purpurata,sapqud1
+dove,Sapphire Quail-Dove - Geotrygon saphirina,sapqud2
+dove,Crested Quail-Dove - Geotrygon versicolor,crqdov1
+dove,Ruddy Quail-Dove - Geotrygon montana,ruqdov
+dove,Violaceous Quail-Dove - Geotrygon violacea,viqdov1
+dove,Grey-fronted Quail-Dove - Geotrygon caniceps,gfqdov
+dove,White-fronted Quail-Dove - Geotrygon leucometopia,wfqdov
+dove,Key West Quail-Dove - Geotrygon chrysia,kwqdov
+dove,Bridled Quail-Dove - Geotrygon mystacea,brqdov1
+dove,Olive-backed Quail-Dove - Leptotrygon veraguensis,obqdov1
+dove,White-tipped Dove - Leptotila verreauxi,whtdov
+dove,Caribbean Dove - Leptotila jamaicensis,cardov1
+dove,Grey-chested Dove - Leptotila cassinii,grcdov1
+dove,Tolima Dove - Leptotila conoveri,toldov1
+dove,Ochre-bellied Dove - Leptotila ochraceiventris,ocbdov1
+dove,Grey-headed Dove - Leptotila plumbeiceps,gyhdov1
+dove,Grey-fronted Dove - Leptotila rufaxilla,grfdov1
+dove,Grenada Dove - Leptotila wellsi,gredov1
+dove,Pallid Dove - Leptotila pallida,paldov1
+dove,Large-tailed Dove - Leptotila megalura,latdov1
+dove,Tuxtla Quail-Dove - Zentrygon carrikeri,tuqdov1
+dove,Buff-fronted Quail-Dove - Zentrygon costaricensis,bfqdov1
+dove,Purplish-backed Quail-Dove - Zentrygon lawrencii,pbqdov1
+dove,White-faced Quail-Dove - Zentrygon albifacies,wfqdov1
+dove,White-throated Quail-Dove - Zentrygon frenata,wtqdov1
+dove,Lined Quail-Dove - Zentrygon linearis,liqdov1
+dove,Chiriqui Quail-Dove - Zentrygon chiriquensis,chqdov1
+dove,Russet-crowned Quail-Dove - Zentrygon goldmani,rcqdov1
+dove,West Peruvian Dove - Zenaida meloda,wepdov1
+dove,White-winged Dove - Zenaida asiatica,whwdov
+dove,Zenaida Dove - Zenaida aurita,zendov
+dove,Galapagos Dove - Zenaida galapagoensis,galdov1
+dove,Eared Dove - Zenaida auriculata,eardov1
+dove,Mourning Dove - Zenaida macroura,moudov
+dove,Socorro Dove - Zenaida graysoni,socdov1
+dove,Sulawesi Ground Dove - Gallicolumba tristigmata,sugdov1
+dove,Cinnamon Ground Dove - Gallicolumba rufigula,cigdov2
+dove,White-eared Brown-Dove - Phapitreron leucotis,whedov1
+dove,Amethyst Brown-Dove - Phapitreron amethystinus,amedov1
+dove,Mindanao Brown-Dove - Phapitreron brunneiceps,daedov2
+dove,Tawitawi Brown-Dove - Phapitreron cinereiceps,daedov3
+dove,Black-backed Fruit-Dove - Ptilinopus cinctus,bbfdov1
+dove,Black-banded Fruit-Dove - Ptilinopus alligator,bbfdov2
+dove,Red-naped Fruit-Dove - Ptilinopus dohertyi,rnfdov1
+dove,Pink-headed Fruit-Dove - Ptilinopus porphyreus,phfdov1
+dove,Yellow-breasted Fruit-Dove - Ptilinopus occipitalis,ybfdov2
+dove,Flame-breasted Fruit-Dove - Ptilinopus marchei,fbfdov1
+dove,Cream-breasted Fruit-Dove - Ptilinopus merrilli,crbfrd1
+dove,Red-eared Fruit-Dove - Ptilinopus fischeri,refdov1
+dove,Jambu Fruit-Dove - Ptilinopus jambu,jafdov1
+dove,Maroon-chinned Fruit-Dove - Ptilinopus epius,macfrd1
+dove,Banggai Fruit-Dove - Ptilinopus subgularis,macfrd3
+dove,Sula Fruit-Dove - Ptilinopus mangoliensis,macfrd2
+dove,Black-chinned Fruit-Dove - Ptilinopus leclancheri,bcfdov1
+dove,Scarlet-breasted Fruit-Dove - Ptilinopus bernsteinii,sbfdov1
+dove,Wompoo Fruit-Dove - Ptilinopus magnificus,wofdov1
+dove,Pink-spotted Fruit-Dove - Ptilinopus perlatus,psfdov1
+dove,Ornate Fruit-Dove - Ptilinopus ornatus,orfdov1
+dove,Tanna Fruit-Dove - Ptilinopus tannensis,tafdov1
+dove,Orange-fronted Fruit-Dove - Ptilinopus aurantiifrons,offdov1
+dove,Wallace's Fruit-Dove - Ptilinopus wallacii,wafdov1
+Small Blue Kingfisher,Common Kingfisher (Small Blue Kingfisher) - Alcedo atthis,comkin1
+Pied Kingfisher,Pied Kingfisher - Ceryle rudis,piekin1
+Blue Rock Pigeon,Rock Pigeon (Blue Rock Pigeon) - Columba livia,rocpig
+Common Myna,Common Hill Myna - Gracula religiosa,hilmyn
+Common Myna,Common Myna - Acridotheres tristis,commyn
+Spotted Munia,White-spotted Munia - Mayrimunia leucosticta,sthmun3
+Spotted Munia,Scaly-breasted Munia (Spotted Munia) - Lonchura punctulata,nutman
+Swallow,Swallow-tailed Nightjar - Uropsalis segmentata,swtnig1
+Swallow,Lesser Swallow-tailed Swift - Panyptila cayennensis,lstswi1
+Swallow,Great Swallow-tailed Swift - Panyptila sanctihieronymi,gstswi1
+Swallow,Swallow-tailed Hummingbird - Eupetomena macroura,swthum1
+Swallow,Swallow-tailed Gull - Creagrus furcatus,swtgul1
+Swallow,Swallow-tailed Kite - Elanoides forficatus,swtkit
+Swallow,Swallow-tailed Bee-eater - Merops hirundineus,stbeat1
+Swallow,Swallow-winged Puffbird - Chelidoptera tenebrosa,swwpuf1
+Swallow,Swallow-tailed Manakin - Chiroxiphia caudata,swtman1
+Swallow,Swallow-tailed Cotinga - Phibalura flavirostris,swtcot1
+Swallow,Grey-rumped Swallow - Pseudhirundo griseopyga,gyrswa1
+Swallow,White-backed Swallow - Cheramoeca leucosterna,whbswa3
+Swallow,Bank Swallow (Sand Martin) - Riparia riparia,banswa
+Swallow,Tree Swallow - Tachycineta bicolor,treswa
+Swallow,Tumbes Swallow - Tachycineta stolzmanni,tumswa1
+Swallow,White-winged Swallow - Tachycineta albiventer,whwswa1
+Swallow,White-rumped Swallow - Tachycineta leucorrhoa,whrswa1
+Swallow,Chilean Swallow - Tachycineta leucopyga,chiswa1
+Swallow,Mangrove Swallow - Tachycineta albilinea,manswa1
+Swallow,Golden Swallow - Tachycineta euchrysea,golswa1
+Swallow,Violet-green Swallow - Tachycineta thalassina,vigswa
+Swallow,Bahama Swallow - Tachycineta cyaneoviridis,bahswa
+Swallow,Northern Rough-winged Swallow - Stelgidopteryx serripennis,nrwswa
+Swallow,Southern Rough-winged Swallow - Stelgidopteryx ruficollis,srwswa1
+Swallow,Black-capped Swallow - Atticora pileata,blcswa1
+Swallow,White-thighed Swallow - Atticora tibialis,whtswa1
+Swallow,White-banded Swallow - Atticora fasciata,whbswa2
+Swallow,Blue-and-white Swallow - Pygochelidon cyanoleuca,bawswa1
+Swallow,Black-collared Swallow - Pygochelidon melanoleuca,blcswa2
+Swallow,Tawny-headed Swallow - Alopochelidon fucata,tahswa2
+Swallow,Pale-footed Swallow - Orochelidon flavipes,pafswa1
+Swallow,Brown-bellied Swallow - Orochelidon murina,brbswa1
+Swallow,Andean Swallow - Orochelidon andecola,andswa2
+Swallow,Montane Blue Swallow - Hirundo atrocaerulea,bluswa1
+Swallow,Black-and-rufous Swallow - Hirundo nigrorufa,barswa1
+Swallow,Pearl-breasted Swallow - Hirundo dimidiata,pebswa1
+Swallow,Hill Swallow (House Swallow) - Hirundo domicola,pacswa3
+Swallow,Pacific Swallow - Hirundo tahitica,pacswa1
+Swallow,Pied-winged Swallow - Hirundo leucosoma,piwswa1
+Swallow,White-tailed Swallow - Hirundo megaensis,whtswa2
+Swallow,Welcome Swallow - Hirundo neoxena,welswa1
+Swallow,Barn Swallow - Hirundo rustica,barswa
+Swallow,Red-chested Swallow - Hirundo lucida,recswa1
+Swallow,Ethiopian Swallow - Hirundo aethiopica,ethswa1
+Swallow,Angola Swallow - Hirundo angolensis,angswa1
+Swallow,White-throated Blue Swallow - Hirundo nigrita,wtbswa1
+Swallow,White-throated Swallow - Hirundo albigularis,whtswa3
+Swallow,Wire-tailed Swallow - Hirundo smithii,witswa1
+Swallow,Forest Swallow - Atronanus fuliginosus,forswa2
+Swallow,Greater Striped Swallow - Cecropis cucullata,grests1
+Swallow,Red-rumped Swallow - Cecropis daurica,rerswa1
+Swallow,Sri Lanka Swallow - Cecropis hyperythra,srlswa1
+Swallow,Striated Swallow - Cecropis striolata,strswa2
+Swallow,Lesser Striped Swallow - Cecropis abyssinica,lessts1
+Swallow,Rufous-chested Swallow - Cecropis semirufa,rucswa2
+Swallow,Mosque Swallow - Cecropis senegalensis,mosswa2
+Swallow,Rufous-bellied Swallow - Cecropis badia,rubswa1
+Swallow,Red-throated Swallow - Petrochelidon rufigula,retswa2
+Swallow,Preuss's Swallow - Petrochelidon preussi,preswa2
+Swallow,Red Sea Swallow - Petrochelidon perdita,resswa2
+Swallow,South African Swallow - Petrochelidon spilodera,soaswa2
+Swallow,Streak-throated Swallow - Petrochelidon fluvicola,sttswa2
+Swallow,Cliff Swallow - Petrochelidon pyrrhonota,cliswa
+Swallow,Cave Swallow - Petrochelidon fulva,cavswa
+Swallow,Chestnut-collared Swallow - Petrochelidon rufocollaris,chcswa2
+Swallow,Swallow Tanager - Tersina viridis,swatan1
+Purple Sunbird,Purple Sunbird - Cinnyris asiaticus,pursun4
+Purple Sunbird,Purple-rumped Sunbird - Leptocoma zeylonica,pursun3
+Purple Sunbird,Van Hasselt's Sunbird (Purple-throated Sunbird) - Leptocoma brasiliana,vahsun1
+Purple Sunbird,Philippine Purple-throated Sunbird - Leptocoma sperata,putsun3
+Purple Sunbird,Purple-breasted Sunbird - Nectarinia purpureiventris,pubsun3
+Purple Sunbird,Purple-banded Sunbird - Cinnyris bifasciatus,pubsun4
+Indian Cuckoo,Indian Cuckoo - Cuculus micropterus,indcuc1
+Hair-crested Drongo,Hair-crested Drongo (Spangled Drongo) - Dicrurus hottentottus,hacdro1
+Jungle Babbler,Jungle Babbler - Argya striata,junbab2
+Treepie,Rufous Treepie - Dendrocitta vagabunda,ruftre2
+Treepie,Grey Treepie - Dendrocitta formosae,grytre1
+Treepie,Sumatran Treepie - Dendrocitta occipitalis,sumtre1
+Treepie,Bornean Treepie - Dendrocitta cinerascens,bortre1
+Treepie,White-bellied Treepie - Dendrocitta leucogastra,whbtre1
+Treepie,Collared Treepie - Dendrocitta frontalis,coltre1
+Treepie,Andaman Treepie - Dendrocitta bayleii,andtre1
+Treepie,Racket-tailed Treepie - Crypsirina temia,rattre1
+Treepie,Hooded Treepie - Crypsirina cucullata,hootre1
+Treepie,Ratchet-tailed Treepie - Temnurus temnurus,rattre2
+crested serpent eagle,Crested Serpent-Eagle - Spilornis cheela,crseag1
+Indian Robin,Indian Robin - Copsychus fulicatus,indrob1
+Indian Robin,Indian Blue Robin - Larvivora brunnea,inbrob1
+Shikra,Shikra - Accipiter badius,shikra1
+Long-tailed Nightjar,Long-tailed Nightjar - Caprimulgus climacurus,lotnig1
+Ashy-crowned finch lark,Ashy-crowned Sparrow-Lark (Ashy-crowned Finch-Lark) - Eremopterix griseus,ascspl1
+House Swift,House Swift (Nepal House Swift) - Apus nipalensis,houswi1
+House Swift,Little Swift (Indian House Swift) - Apus affinis,litswi1
+Merlin,Great Lizard-Cuckoo - Coccyzus merlini,grelic1
+Merlin,Merlin - Falco columbarius,merlin
+Baya weaver,Baya Weaver - Ploceus philippinus,baywea1
+Indian Roller,Indian Roller - Coracias benghalensis,indrol2
+Neophron,Egyptian Vulture - Neophron percnopterus,egyvul1
+White-throated Munia,Indian Silverbill (White-throated Munia) - Euodice malabarica,indsil
+Black eagle,Black Hawk-Eagle - Spizaetus tyrannus,blheag1
+Black eagle,Black Eagle - Ictinaetus malaiensis,blaeag1
+Black eagle,Black-chested Snake-Eagle - Circaetus pectoralis,bkbsne1
+Black eagle,Black-and-white Hawk-Eagle - Spizaetus melanoleucus,bawhae1
+Black eagle,Black-and-chestnut Eagle - Spizaetus isidori,baceag2
+Black eagle,Black-chested Buzzard-Eagle - Geranoaetus melanoleucus,bcbeag1
+Reed Warbler,Black-browed Reed Warbler - Acrocephalus bistrigiceps,bbrwar1
+Reed Warbler,Streaked Reed Warbler - Acrocephalus sorghophilus,strwar1
+Reed Warbler,Manchurian Reed Warbler - Acrocephalus tangorum,manrew1
+Reed Warbler,Blyth's Reed Warbler - Acrocephalus dumetorum,blrwar1
+Reed Warbler,Large-billed Reed Warbler - Acrocephalus orinus,labrew1
+Reed Warbler,Common Reed Warbler - Acrocephalus scirpaceus,eurwar1
+Reed Warbler,Basra Reed Warbler - Acrocephalus griseldis,barwar2
+Reed Warbler,Great Reed Warbler - Acrocephalus arundinaceus,grrwar1
+Reed Warbler,Oriental Reed Warbler - Acrocephalus orientalis,orrwar1
+Reed Warbler,Clamorous Reed Warbler (Indian Great Reed Warbler) - Acrocephalus stentoreus,clrwar1
+Reed Warbler,Nightingale Reed Warbler - Acrocephalus luscinius,nigrew1
+Reed Warbler,Saipan Reed Warbler - Acrocephalus hiwae,sairew1
+Reed Warbler,Australian Reed Warbler - Acrocephalus australis,aurwar1
+Reed Warbler,Caroline Reed Warbler - Acrocephalus syrinx,carrew1
+Reed Warbler,Aguiguan Reed Warbler - Acrocephalus nijoi,agurew1
+Reed Warbler,Kiritimati Reed Warbler - Acrocephalus aequinoctialis,chiwar1
+Reed Warbler,Southern Marquesan Reed Warbler - Acrocephalus mendanae,marwar2
+Reed Warbler,Pagan Reed Warbler - Acrocephalus yamashinae,pagrew1
+Reed Warbler,Nauru Reed Warbler - Acrocephalus rehsei,narwar1
+Reed Warbler,Pitcairn Reed Warbler - Acrocephalus vaughani,pirwar2
+Reed Warbler,Henderson Island Reed Warbler - Acrocephalus taiti,hirwar1
+Reed Warbler,Cook Islands Reed Warbler - Acrocephalus kerearako,cirwar2
+Reed Warbler,Rimitara Reed Warbler - Acrocephalus rimitarae,rimrew1
+Reed Warbler,Society Islands Reed Warbler - Acrocephalus musae,soirew1
+Reed Warbler,Tahiti Reed Warbler - Acrocephalus caffer,tahrew1
+Reed Warbler,Moorea Reed Warbler - Acrocephalus longirostris,moorew1
+Reed Warbler,Northern Marquesan Reed Warbler - Acrocephalus percernis,marrew2
+Reed Warbler,Tuamotu Reed Warbler - Acrocephalus atyphus,turwar1
+Reed Warbler,Mangareva Reed Warbler - Acrocephalus astrolabii,manrew2
+Black-winged kite,Black-winged Kite (Black-shouldered Kite) - Elanus caeruleus,bkskit1
+White-eyed Buzzard,White-eyed Buzzard - Butastur teesa,whebuz1
+Bee Eater,Red-bearded Bee-eater - Nyctyornis amictus,rbbeat1
+Bee Eater,Blue-bearded Bee-eater - Nyctyornis athertoni,bbbeat1
+Bee Eater,Purple-bearded Bee-eater - Meropogon forsteni,pbbeat1
+Bee Eater,Black Bee-eater - Merops gularis,blbeat1
+Bee Eater,Blue-moustached Bee-eater - Merops mentalis,bumbee1
+Bee Eater,Blue-headed Bee-eater - Merops muelleri,bhbeat2
+Bee Eater,Red-throated Bee-eater - Merops bulocki,rtbeat1
+Bee Eater,White-fronted Bee-eater - Merops bullockoides,wfbeat1
+Bee Eater,Little Bee-eater - Merops pusillus,libeat1
+Bee Eater,Blue-breasted Bee-eater - Merops variegatus,bbbeat2
+Bee Eater,Ethiopian Bee-eater - Merops lafresnayii,bubbee2
+Bee Eater,Cinnamon-chested Bee-eater - Merops oreobates,ccbeat1
+Bee Eater,Swallow-tailed Bee-eater - Merops hirundineus,stbeat1
+Bee Eater,Black-headed Bee-eater - Merops breweri,bhbeat1
+Bee Eater,Somali Bee-eater - Merops revoilii,sobeat1
+Bee Eater,White-throated Bee-eater - Merops albicollis,wtbeat1
+Bee Eater,African Green Bee-eater - Merops viridissimus,grnbee1
+Bee Eater,Arabian Green Bee-eater - Merops cyanophrys,grnbee2
+Bee Eater,Asian Green Bee-eater - Merops orientalis,grnbee3
+Bee Eater,Böhm's Bee-eater - Merops boehmi,bobeat1
+Bee Eater,Blue-throated Bee-eater - Merops viridis,btbeat2
+Bee Eater,Rufous-crowned Bee-eater - Merops americanus,rucbee1
+Bee Eater,Blue-cheeked Bee-eater - Merops persicus,bcbeat1
+Bee Eater,Madagascar Bee-eater - Merops superciliosus,mabeat1
+Bee Eater,Blue-tailed Bee-eater - Merops philippinus,btbeat1
+Bee Eater,Rainbow Bee-eater - Merops ornatus,rabeat1
+Bee Eater,European Bee-eater - Merops apiaster,eubeat1
+Bee Eater,Chestnut-headed Bee-eater - Merops leschenaulti,chbeat1
+Bee Eater,Rosy Bee-eater - Merops malimbicus,robeat1
+Bee Eater,Northern Carmine Bee-eater - Merops nubicus,ncbeat1
+Bee Eater,Southern Carmine Bee-eater - Merops nubicoides,scbeat1
+Loten Sunbird,Loten's Sunbird (Long-billed Sunbird) - Cinnyris lotenius,lobsun2
+Spotted Bulbul,Orange-spotted Bulbul - Pycnonotus bimaculatus,orsbul3
+Magpie Robin,Oriental Magpie-Robin - Copsychus saularis,magrob
+Magpie Robin,Madagascar Magpie-Robin - Copsychus albospecularis,mamrob1
+Magpie Robin,Seychelles Magpie-Robin - Copsychus sechellarum,semrob1
+Magpie Robin,Philippine Magpie-Robin - Copsychus mindanensis,phimar1
+Spotted Owlet,Spotted Owlet - Athene brama,spoowl1
+Spotted Owlet,Pearl-spotted Owlet - Glaucidium perlatum,pesowl1
+Bulbul,Black-collared Bulbul - Neolestes torquatus,blcbul1
+Bulbul,Hairy-backed Bulbul - Tricholestes criniger,habbul1
+Bulbul,Hook-billed Bulbul - Setornis criniger,hobbul1
+Bulbul,Yellow-bellied Bulbul - Alophoixus phaeocephalus,yebbul2
+Bulbul,Grey-throated Bulbul - Alophoixus frater,gytbul1
+Bulbul,Grey-cheeked Bulbul - Alophoixus tephrogenys,gycbul2
+Bulbul,Penan Bulbul - Alophoixus ruficrissus,ochbul3
+Bulbul,Brown-cheeked Bulbul - Alophoixus bres,gycbul3
+Bulbul,White-throated Bulbul - Alophoixus flaveolus,whtbul1
+Bulbul,Ochraceous Bulbul - Alophoixus ochraceus,ochbul2
+Bulbul,Puff-throated Bulbul - Alophoixus pallidus,putbul1
+Bulbul,Striated Bulbul - Alcurus striatus,strbul2
+Bulbul,Finsch's Bulbul - Iole finschii,finbul1
+Bulbul,Sulphur-bellied Bulbul - Iole palawanensis,subbul1
+Bulbul,Olive Bulbul - Iole viridescens,olibul1
+Bulbul,Buff-vented Bulbul - Iole crypta,buvbul1
+Bulbul,Charlotte's Bulbul - Iole charlottae,chabul1
+Bulbul,Grey-eyed Bulbul - Iole propinqua,gyebul1
+Bulbul,Ashy Bulbul - Hemixos flavala,ashbul1
+Bulbul,Cinereous Bulbul - Hemixos cinereus,cinbul1
+Bulbul,Chestnut Bulbul - Hemixos castanonotus,chebul1
+Bulbul,Yellow-browed Bulbul - Acritillas indica,yebbul3
+Bulbul,Cream-striped Bulbul - Ixos leucogrammicus,crsbul1
+Bulbul,Sumatran Bulbul - Ixos sumatranus,sunbul1
+Bulbul,Javan Bulbul - Ixos virescens,sunbul3
+Bulbul,Streaked Bulbul - Ixos malaccensis,strbul1
+Bulbul,Mountain Bulbul - Ixos mcclellandii,moubul2
+Bulbul,Nicobar Bulbul - Ixos nicobariensis,nicbul2
+Bulbul,Philippine Bulbul - Hypsipetes philippinus,phibul1
+Bulbul,Mindoro Bulbul - Hypsipetes mindorensis,minbul1
+Bulbul,Streak-breasted Bulbul - Hypsipetes siquijorensis,stbbul1
+Bulbul,Seram Golden-Bulbul - Hypsipetes affinis,golbul3
+Bulbul,Sangihe Golden-Bulbul - Hypsipetes platenae,sangob1
+Bulbul,Togian Golden-Bulbul - Hypsipetes aureus,toggob1
+Bulbul,Banggai Golden-Bulbul - Hypsipetes harterti,sulgob2
+Bulbul,Sula Golden-Bulbul - Hypsipetes longirostris,sulgob3
+Bulbul,Halmahera Golden-Bulbul - Hypsipetes chloris,halgob1
+Bulbul,Obi Golden-Bulbul - Hypsipetes lucasi,obigob1
+Bulbul,Buru Golden-Bulbul - Hypsipetes mysticalis,golbul4
+Bulbul,Visayan Bulbul - Hypsipetes guimarasensis,visbul1
+Bulbul,Yellowish Bulbul - Hypsipetes everetti,yelbul1
+Bulbul,Camiguin Bulbul - Hypsipetes catarmanensis,yelbul4
+Bulbul,Zamboanga Bulbul - Hypsipetes rufigularis,zambul1
+Bulbul,Brown-eared Bulbul - Hypsipetes amaurotis,brebul1
+Bulbul,Reunion Bulbul - Hypsipetes borbonicus,reubul1
+Bulbul,Malagasy Bulbul - Hypsipetes madagascariensis,madbul1
+Bulbul,Mauritius Bulbul - Hypsipetes olivaceus,maubul1
+Bulbul,White-headed Bulbul - Hypsipetes thompsoni,whhbul1
+Bulbul,Himalayan Black Bulbul - Hypsipetes leucocephalus,blabul1
+Bulbul,Square-tailed Bulbul (Black Bulbul) - Hypsipetes ganeesa,sqtbul1
+Bulbul,Grande Comore Bulbul - Hypsipetes parvirostris,combul1
+Bulbul,Moheli Bulbul - Hypsipetes moheliensis,mohbul1
+Bulbul,Seychelles Bulbul - Hypsipetes crassirostris,seybul1
+Bulbul,Puff-backed Bulbul - Microtarsus eutilotus,pubbul1
+Bulbul,Black-and-white Bulbul - Microtarsus melanoleucos,bawbul2
+Bulbul,Yellow-wattled Bulbul - Microtarsus urostictus,yewbul1
+Bulbul,Grey-headed Bulbul - Microtarsus priocephalus,gyhbul1
+Bulbul,Black-headed Bulbul - Microtarsus melanocephalos,blhbul1
+Bulbul,Andaman Bulbul - Microtarsus fuscoflavescens,andbul1
+Bulbul,Blue-wattled Bulbul - Microtarsus nieuwenhuisii,blwbul1
+Bulbul,Spectacled Bulbul - Rubigula erythropthalmos,spebul1
+Bulbul,Grey-bellied Bulbul - Rubigula cyaniventris,gybbul1
+Bulbul,Scaly-breasted Bulbul - Rubigula squamata,scbbul1
+Bulbul,Black-crested Bulbul - Rubigula flaviventris,blcbul2
+Bulbul,Flame-throated Bulbul (Ruby-throated Bulbul) - Rubigula gularis,bkcbul1
+Bulbul,Black-capped Bulbul - Rubigula melanictera,bkcbul2
+Bulbul,Sunda Ruby-throated Bulbul - Rubigula dispar,bkcbul3
+Bulbul,Bornean Bulbul - Rubigula montis,bkcbul4
+Bulbul,Bare-faced Bulbul - Nok hualon,bafbul1
+Bulbul,Spot-necked Bulbul - Pycnonotus tympanistrigus,spnbul1
+Bulbul,Cream-vented Bulbul - Pycnonotus simplex,crvbul1
+Bulbul,Olive-winged Bulbul - Pycnonotus plumosus,olwbul1
+Bulbul,Red-eyed Bulbul - Pycnonotus brunneus,reebul1
+Bulbul,Straw-headed Bulbul - Pycnonotus zeylanicus,sthbul1
+Bulbul,Cream-eyed Bulbul - Pycnonotus pseudosimplex,crebul1
+Bulbul,Ashy-fronted Bulbul - Pycnonotus cinereifrons,asfbul1
+Bulbul,White-browed Bulbul - Pycnonotus luteolus,whbbul2
+Bulbul,Ayeyarwady Bulbul - Pycnonotus blanfordi,ayebul1
+Bulbul,Streak-eared Bulbul - Pycnonotus conradi,stebul2
+Bulbul,Pale-eyed Bulbul - Pycnonotus davisoni,sttbul2
+Bulbul,Stripe-throated Bulbul - Pycnonotus finlaysoni,sttbul3
+Bulbul,Flavescent Bulbul - Pycnonotus flavescens,flabul1
+Bulbul,Aceh Bulbul - Pycnonotus snouckaerti,orsbul2
+Bulbul,Orange-spotted Bulbul - Pycnonotus bimaculatus,orsbul3
+Bulbul,Pale-faced Bulbul - Pycnonotus leucops,flabul3
+Bulbul,Yellow-throated Bulbul - Pycnonotus xantholaemus,yetbul1
+Bulbul,Yellow-eared Bulbul - Pycnonotus penicillatus,yeebul1
+Bulbul,Brown-breasted Bulbul - Pycnonotus xanthorrhous,brbbul1
+Bulbul,Light-vented Bulbul - Pycnonotus sinensis,livbul1
+Bulbul,Styan's Bulbul - Pycnonotus taivanus,stybul1
+Bulbul,Common Bulbul - Pycnonotus barbatus,combul2
+Bulbul,Red-whiskered Bulbul - Pycnonotus jocosus,rewbul
+Bulbul,Yellow-vented Bulbul - Pycnonotus goiavier,yevbul1
+Bulbul,Red-vented Bulbul - Pycnonotus cafer,revbul
+Bulbul,Sooty-headed Bulbul - Pycnonotus aurigaster,sohbul1
+Bulbul,White-eared Bulbul - Pycnonotus leucotis,whebul1
+Bulbul,Himalayan Bulbul - Pycnonotus leucogenys,whcbul2
+Bulbul,White-spectacled Bulbul - Pycnonotus xanthopygos,whsbul1
+Bulbul,Black-fronted Bulbul - Pycnonotus nigricans,blfbul1
+Bulbul,Cape Bulbul - Pycnonotus capensis,capbul1
+Wren Warbler,Miombo Wren-Warbler - Calamonastes undosus,miowrw2
+Wren Warbler,Stierling's Wren-Warbler - Calamonastes stierlingi,miowrw3
+Wren Warbler,Grey Wren-Warbler - Calamonastes simplex,grywrw1
+Wren Warbler,Barred Wren-Warbler - Calamonastes fasciolatus,bawwar1
+golden oriole,Eurasian Golden Oriole - Oriolus oriolus,eugori2
+golden oriole,Indian Golden Oriole - Oriolus kundoo,ingori1
+golden oriole,African Golden Oriole - Oriolus auratus,afgori2
+Kestrel,Lesser Kestrel - Falco naumanni,leskes1
+Kestrel,Eurasian Kestrel (Common Kestrel) - Falco tinnunculus,eurkes
+Kestrel,Rock Kestrel - Falco rupicolus,eurkes1
+Kestrel,Malagasy Kestrel - Falco newtoni,madkes1
+Kestrel,Mauritius Kestrel - Falco punctatus,maukes1
+Kestrel,Seychelles Kestrel - Falco araeus,seykes1
+Kestrel,Reunion Kestrel - Falco duboisi,reukes1
+Kestrel,Spotted Kestrel - Falco moluccensis,spokes1
+Kestrel,Nankeen Kestrel - Falco cenchroides,auskes1
+Kestrel,Greater Kestrel - Falco rupicoloides,grekes1
+Kestrel,American Kestrel - Falco sparverius,amekes
+Kestrel,Fox Kestrel - Falco alopex,foxkes1
+Kestrel,Grey Kestrel - Falco ardosiaceus,grykes1
+Kestrel,Dickinson's Kestrel - Falco dickinsoni,dickes1
+Kestrel,Banded Kestrel - Falco zoniventris,bankes1
+Black drongo,Black Drongo - Dicrurus macrocercus,bladro1
+Short-toed Eagle,Short-toed Snake-Eagle - Circaetus gallicus,shteag1
+dusky crag martin,Dusky Crag-Martin - Ptyonoprogne concolor,duscrm1
+Plain Prinia,Plain Prinia - Prinia inornata,plapri1
+Woodshrike,Malabar Woodshrike - Tephrodornis sylvicola,malwoo1
+Woodshrike,Large Woodshrike - Tephrodornis virgatus,larwoo1
+Woodshrike,Common Woodshrike - Tephrodornis pondicerianus,comwoo1
+Woodshrike,Sri Lanka Woodshrike - Tephrodornis affinis,srlwoo1
+Steppe Eagle,Steppe Eagle - Aquila nipalensis,steeag1
+Swift,Black Swift - Cypseloides niger,blkswi
+Swift,White-chested Swift - Cypseloides lemosi,whcswi2
+Swift,Rothschild's Swift - Cypseloides rothschildi,rotswi1
+Swift,Sooty Swift - Cypseloides fumigatus,sooswi1
+Swift,White-fronted Swift - Cypseloides storeri,whfswi1
+Swift,White-chinned Swift - Cypseloides cryptus,whcswi1
+Swift,Spot-fronted Swift - Cypseloides cherriei,spfswi1
+Swift,Great Dusky Swift - Cypseloides senex,grdswi1
+Swift,Chestnut-collared Swift - Streptoprocne rutila,chcswi1
+Swift,Tepui Swift - Streptoprocne phelpsi,tepswi1
+Swift,White-collared Swift - Streptoprocne zonaris,whcswi
+Swift,White-naped Swift - Streptoprocne semicollaris,whnswi1
+Swift,Biscutate Swift - Streptoprocne biscutata,bisswi1
+Swift,Grey-rumped Swift - Chaetura cinereiventris,grrswi1
+Swift,Band-rumped Swift - Chaetura spinicaudus,barswi
+Swift,Costa Rican Swift - Chaetura fumosa,corswi
+Swift,Lesser Antillean Swift - Chaetura martinica,leaswi1
+Swift,Pale-rumped Swift - Chaetura egregia,parswi1
+Swift,Chimney Swift - Chaetura pelagica,chiswi
+Swift,Vaux's Swift - Chaetura vauxi,vauswi
+Swift,Chapman's Swift - Chaetura chapmani,chaswi2
+Swift,Ashy-tailed Swift - Chaetura andrei,astswi1
+Swift,Sick's Swift - Chaetura meridionalis,sicswi1
+Swift,Short-tailed Swift - Chaetura brachyura,shtswi1
+Swift,Waterfall Swift - Hydrochous gigas,watswi1
+Swift,Pygmy Swiftlet - Collocalia troglodytes,pygswi2
+Swift,Bornean Swiftlet - Collocalia dodgei,cavswi3
+Swift,Christmas Island Swiftlet - Collocalia natalis,chiswi1
+Swift,Cave Swiftlet - Collocalia linchi,cavswi2
+Swift,Plume-toed Swift (Andaman Glossy Swiftlet) - Collocalia affinis,pltswi1
+Swift,Grey-rumped Swiftlet - Collocalia marginata,gyrswi5
+Swift,Ridgetop Swiftlet - Collocalia isonota,ridswi1
+Swift,Tenggara Swiftlet - Collocalia sumbawae,tenswi1
+Swift,Drab Swiftlet - Collocalia neglecta,draswi1
+Swift,Glossy Swiftlet - Collocalia esculenta,gloswi1
+Swift,Satin Swiftlet - Collocalia uropygialis,satswi1
+Swift,Seychelles Swiftlet - Aerodramus elaphrus,seyswi1
+Swift,Mascarene Swiftlet - Aerodramus francicus,masswi1
+Swift,Indian Swiftlet - Aerodramus unicolor,indswi1
+Swift,Sulawesi Swiftlet - Aerodramus sororum,molswi4
+Swift,Halmahera Swiftlet - Aerodramus infuscatus,molswi3
+Swift,Seram Swiftlet - Aerodramus ceramensis,molswi1
+Swift,Philippine Swiftlet - Aerodramus mearnsi,phiswi1
+Swift,Mountain Swiftlet - Aerodramus hirundinaceus,mouswi2
+Swift,White-rumped Swiftlet - Aerodramus spodiopygius,whrswi2
+Swift,Australian Swiftlet - Aerodramus terraereginae,ausswi1
+Swift,Himalayan Swiftlet - Aerodramus brevirostris,himswi2
+Swift,Volcano Swiftlet - Aerodramus vulcanorum,volswi1
+Swift,Whitehead's Swiftlet - Aerodramus whiteheadi,whiswi1
+Swift,Bare-legged Swiftlet - Aerodramus nuditarsus,balswi1
+Swift,Mayr's Swiftlet - Aerodramus orientalis,mayswi1
+Swift,Ameline Swiftlet - Aerodramus amelis,palswi2
+Swift,Uniform Swiftlet - Aerodramus vanikorensis,uniswi1
+Swift,Mossy-nest Swiftlet - Aerodramus salangana,monswi2
+Swift,Palau Swiftlet - Aerodramus pelewensis,palswi1
+Swift,Mariana Swiftlet - Aerodramus bartschi,marswi
+Swift,Caroline Islands Swiftlet - Aerodramus inquietus,caiswi1
+Swift,Atiu Swiftlet - Aerodramus sawtelli,atiswi1
+Swift,Tahiti Swiftlet - Aerodramus leucophaeus,polswi1
+Swift,Marquesan Swiftlet - Aerodramus ocistus,marswi2
+Swift,Black-nest Swiftlet - Aerodramus maximus,blnswi1
+Swift,White-nest Swiftlet (Edible-nest Swiftlet) - Aerodramus fuciphagus,ednswi1
+Swift,Germain's Swiftlet - Aerodramus germani,gerswi1
+Swift,Three-toed Swiftlet - Aerodramus papuensis,papswi1
+Swift,Scarce Swift - Schoutedenapus myoptilus,scaswi1
+Swift,Alpine Swift - Tachymarptis melba,alpswi1
+Swift,Mottled Swift - Tachymarptis aequatorialis,motswi2
+Swift,Cape Verde Swift - Apus alexandri,aleswi1
+Swift,Common Swift - Apus apus,comswi
+Swift,Plain Swift - Apus unicolor,plaswi1
+Swift,Nyanza Swift - Apus niansae,nyaswi1
+Swift,Pallid Swift - Apus pallidus,palswi3
+Swift,African Swift - Apus barbatus,afrswi1
+Swift,Forbes-Watson's Swift - Apus berliozi,fowswi1
+Swift,Bradfield's Swift - Apus bradfieldi,braswi1
+Swift,Malagasy Swift - Apus balstoni,madswi1
+Swift,Pacific Swift - Apus pacificus,fotswi
+Swift,Salim Ali's Swift - Apus salimalii,saaswi1
+Swift,Blyth's Swift (Fork-tailed Swift) - Apus leuconyx,blyswi1
+Swift,Cook's Swift - Apus cooki,cooswi1
+Swift,Dark-rumped Swift - Apus acuticauda,darswi1
+Swift,Little Swift (Indian House Swift) - Apus affinis,litswi1
+Swift,House Swift (Nepal House Swift) - Apus nipalensis,houswi1
+Swift,Horus Swift - Apus horus,horswi1
+Swift,White-rumped Swift - Apus caffer,whrswi1
+Swift,Bates's Swift - Apus batesi,batswi1
+Swift,White-throated Swift - Aeronautes saxatalis,whtswi
+Swift,White-tipped Swift - Aeronautes montivagus,whtswi1
+Swift,Andean Swift - Aeronautes andecolus,andswi1
+Swift,Lesser Swallow-tailed Swift - Panyptila cayennensis,lstswi1
+Swift,Great Swallow-tailed Swift - Panyptila sanctihieronymi,gstswi1
+Swift,Asian Palm Swift - Cypsiurus balasiensis,aspswi1
+Swift,African Palm Swift - Cypsiurus parvus,afpswi1
+Swift,Malagasy Palm Swift - Cypsiurus gracilis,malpas1
+Swift,Antillean Palm Swift - Tachornis phoenicobia,anpswi
+Swift,Pygmy Palm Swift - Tachornis furcata,pygswi1
+Swift,Fork-tailed Palm Swift - Tachornis squamata,ftpswi1
+Swift,Swift Parrot - Lathamus discolor,swipar1
+Brown Shrike,Brown Shrike - Lanius cristatus,brnshr
+Booted Eagle,Booted Eagle - Hieraaetus pennatus,booeag1
+Large Pied Wagtail,White-browed Wagtail (Large Pied Wagtail) - Motacilla maderaspatensis,whbwag1
+Golden Oriole,Eurasian Golden Oriole - Oriolus oriolus,eugori2
+Golden Oriole,Indian Golden Oriole - Oriolus kundoo,ingori1
+Golden Oriole,African Golden Oriole - Oriolus auratus,afgori2
+House Sparrow,House Sparrow - Passer domesticus,houspa
+Flowerpecker,Olive-backed Flowerpecker - Prionochilus olivaceus,olbflo1
+Flowerpecker,Yellow-breasted Flowerpecker - Prionochilus maculatus,yebflo2
+Flowerpecker,Crimson-breasted Flowerpecker - Prionochilus percussus,crbflo1
+Flowerpecker,Palawan Flowerpecker - Prionochilus plateni,palflo1
+Flowerpecker,Yellow-rumped Flowerpecker - Prionochilus xanthopygius,yerflo1
+Flowerpecker,Scarlet-breasted Flowerpecker - Prionochilus thoracicus,scbflo2
+Flowerpecker,Spectacled Flowerpecker - Dicaeum dayakorum,speflo1
+Flowerpecker,Golden-rumped Flowerpecker - Dicaeum annae,gorflo1
+Flowerpecker,Thick-billed Flowerpecker - Dicaeum agile,thbflo1
+Flowerpecker,Brown-backed Flowerpecker - Dicaeum everetti,brbflo1
+Flowerpecker,Whiskered Flowerpecker - Dicaeum proprium,whiflo1
+Flowerpecker,Yellow-vented Flowerpecker - Dicaeum chrysorrheum,yevflo1
+Flowerpecker,Yellow-bellied Flowerpecker - Dicaeum melanozanthum,yebflo1
+Flowerpecker,White-throated Flowerpecker - Dicaeum vincens,whtflo1
+Flowerpecker,Yellow-sided Flowerpecker - Dicaeum aureolimbatum,yesflo1
+Flowerpecker,Olive-capped Flowerpecker - Dicaeum nigrilore,olcflo1
+Flowerpecker,Yellow-crowned Flowerpecker - Dicaeum anthonyi,flcflo2
+Flowerpecker,Flame-crowned Flowerpecker - Dicaeum kampalili,flcflo3
+Flowerpecker,Bicolored Flowerpecker - Dicaeum bicolor,bicflo1
+Flowerpecker,Cebu Flowerpecker - Dicaeum quadricolor,cebflo1
+Flowerpecker,Red-keeled Flowerpecker - Dicaeum australe,resflo1
+Flowerpecker,Black-belted Flowerpecker - Dicaeum haematostictum,rekflo1
+Flowerpecker,Scarlet-collared Flowerpecker - Dicaeum retrocinctum,sccflo1
+Flowerpecker,Orange-bellied Flowerpecker - Dicaeum trigonostigma,orbflo1
+Flowerpecker,White-bellied Flowerpecker - Dicaeum hypoleucum,whbflo1
+Flowerpecker,Pale-billed Flowerpecker - Dicaeum erythrorhynchos,pabflo1
+Flowerpecker,Nilgiri Flowerpecker - Dicaeum concolor,plaflo1
+Flowerpecker,Plain Flowerpecker - Dicaeum minullum,plaflo2
+Flowerpecker,Andaman Flowerpecker - Dicaeum virescens,andflo1
+Flowerpecker,Pygmy Flowerpecker - Dicaeum pygmaeum,pygflo1
+Flowerpecker,Crimson-crowned Flowerpecker - Dicaeum nehrkorni,crcflo1
+Flowerpecker,Halmahera Flowerpecker - Dicaeum schistaceiceps,flbflo3
+Flowerpecker,Buru Flowerpecker - Dicaeum erythrothorax,flbflo2
+Flowerpecker,Ashy Flowerpecker - Dicaeum vulneratum,ashflo1
+Flowerpecker,Olive-crowned Flowerpecker - Dicaeum pectorale,olcflo2
+Flowerpecker,Red-capped Flowerpecker - Dicaeum geelvinkianum,recflo1
+Flowerpecker,Louisiade Flowerpecker - Dicaeum nitidum,louflo1
+Flowerpecker,Red-banded Flowerpecker - Dicaeum eximium,rebflo1
+Flowerpecker,Midget Flowerpecker - Dicaeum aeneum,midflo1
+Flowerpecker,Mottled Flowerpecker - Dicaeum tristrami,motflo1
+Flowerpecker,Black-fronted Flowerpecker - Dicaeum igniferum,blfflo1
+Flowerpecker,Red-chested Flowerpecker - Dicaeum maugei,recflo2
+Flowerpecker,Fire-breasted Flowerpecker - Dicaeum ignipectus,fibflo1
+Flowerpecker,Cambodian Flowerpecker - Dicaeum cambodianum,fibflo3
+Flowerpecker,Fire-throated Flowerpecker - Dicaeum luzoniense,fibflo4
+Flowerpecker,Sumatran Flowerpecker - Dicaeum beccarii,fibflo5
+Flowerpecker,Black-sided Flowerpecker - Dicaeum monticolum,blsflo1
+Flowerpecker,Grey-sided Flowerpecker - Dicaeum celebicum,gysflo1
+Flowerpecker,Blood-breasted Flowerpecker - Dicaeum sanguinolentum,blbflo1
+Flowerpecker,Pink-breasted Flowerpecker - Dicaeum keiense,pibflo1
+Flowerpecker,Scarlet-backed Flowerpecker - Dicaeum cruentatum,scbflo1
+Flowerpecker,Scarlet-headed Flowerpecker - Dicaeum trochileum,schflo1
+Large Cuckooshrike,Large Cuckooshrike - Coracina macei,larcus1
+White-breasted Waterhen,White-breasted Waterhen - Amaurornis phoenicurus,whbwat1
+Hoopoe,Eurasian Hoopoe - Upupa epops,hoopoe
+Hoopoe,Madagascar Hoopoe - Upupa marginata,madhoo1
+Hoopoe,St. Helena Hoopoe - Upupa antaios,sthhoo1
+Hoopoe,Greater Hoopoe-Lark - Alaemon alaudipes,grhlar1
+Hoopoe,Lesser Hoopoe-Lark - Alaemon hamertoni,lehlar1
+Indian Pitta,Indian Pitta - Pitta brachyura,indpit1
+Alpine Swift,Alpine Swift - Tachymarptis melba,alpswi1
+Palm Swift,Asian Palm Swift - Cypsiurus balasiensis,aspswi1
+Palm Swift,African Palm Swift - Cypsiurus parvus,afpswi1
+Palm Swift,Malagasy Palm Swift - Cypsiurus gracilis,malpas1
+Palm Swift,Antillean Palm Swift - Tachornis phoenicobia,anpswi
+Palm Swift,Pygmy Palm Swift - Tachornis furcata,pygswi1
+Palm Swift,Fork-tailed Palm Swift - Tachornis squamata,ftpswi1
+Alpine swift,Alpine Swift - Tachymarptis melba,alpswi1
+Black-headed munia,Tricolored Munia (Black-headed Munia) - Lonchura malacca,trimun
+Blossom-headed Parakeet,Blossom-headed Parakeet - Psittacula roseata,blhpar3
+Tawny Eagle,Tawny Eagle - Aquila rapax,taweag1
+crested honey buzzard,Oriental Honey-buzzard (Crested Honey Buzzard) - Pernis ptilorhynchus,orihob2
+Yellow-eyed Babbler,Yellow-eyed Babbler - Chrysomma sinense,yeebab1
+grey wagtail,Grey Wagtail - Motacilla cinerea,grywag
+Blue Throated Flycatcher,Blue-throated Flycatcher - Cyornis rubeculoides,butfly1
+Emerald Dove,Emerald-spotted Wood-Dove - Turtur chalcospilos,eswdov1
+Emerald Dove,Asian Emerald Dove - Chalcophaps indica,emedov2
+Emerald Dove,Pacific Emerald Dove - Chalcophaps longirostris,emedov3
+Egret,Little Blue Heron - Egretta caerulea,libher
+Egret,Tricolored Heron - Egretta tricolor,triher
+Egret,Reddish Egret - Egretta rufescens,redegr
+Egret,Slaty Egret - Egretta vinaceigula,slaegr1
+Egret,Black Heron - Egretta ardesiaca,blaher1
+Egret,Pacific Reef-Heron (Pacific Reef-Egret) - Egretta sacra,pacreh1
+Egret,Chinese Egret - Egretta eulophotes,chiegr
+Egret,Snowy Egret - Egretta thula,snoegr
+Egret,Little Egret - Egretta garzetta,litegr
+Egret,Western Reef-Heron (Western Reef-Egret) - Egretta gularis,werher
+Egret,Pied Heron - Egretta picata,pieher2
+Egret,White-faced Heron - Egretta novaehollandiae,whfher1
+Egret,Western Cattle Egret - Bubulcus ibis,categr1
+Egret,Eastern Cattle Egret - Bubulcus coromandus,categr2
+Egret,Great Egret - Ardea alba,greegr
+Egret,Yellow-billed Egret - Ardea brachyrhyncha,integr3
+Egret,Intermediate Egret (Medium Egret) - Ardea intermedia,integr1
+Egret,Plumed Egret - Ardea plumifera,integr2
+Lesser Whitethroat,Lesser Whitethroat - Curruca curruca,leswhi4
+Wood Shrike,Woodchat Shrike - Lanius senator,wooshr1
+Black-backed woodpecker,Black-backed Woodpecker - Picoides arcticus,bkbwoo
+Brown Flycatcher,Brown-crested Flycatcher - Myiarchus tyrannulus,bncfly
+Brown Flycatcher,Asian Brown Flycatcher - Muscicapa dauurica,asbfly
+Brown Flycatcher,Sumba Brown Flycatcher - Muscicapa segregata,subfly2
+Brown Flycatcher,Brown-breasted Flycatcher - Muscicapa muttui,brbfly2
+Brown Flycatcher,Sulawesi Brown Flycatcher - Muscicapa sodhii,subfly3
+Brown Flycatcher,Brown-streaked Flycatcher - Muscicapa williamsoni,bnsfly1
+Brown Flycatcher,Brown-chested Jungle Flycatcher - Cyornis brunneatus,bncjuf1
+Chloropsis,Gilbert's Honeyeater - Melithreptus chloropsis,whnhon3
+Chloropsis,Philippine Leafbird - Chloropsis flavipennis,philea1
+Chloropsis,Yellow-throated Leafbird - Chloropsis palawanensis,yetlea1
+Chloropsis,Greater Green Leafbird - Chloropsis sonnerati,grglea1
+Chloropsis,Lesser Green Leafbird - Chloropsis cyanopogon,leglea1
+Chloropsis,Blue-winged Leafbird (Blue-winged Chloropsis) - Chloropsis moluccensis,blwlea1
+Chloropsis,Javan Leafbird - Chloropsis cochinchinensis,buwlea2
+Chloropsis,Bornean Leafbird - Chloropsis kinabaluensis,borlea1
+Chloropsis,Jerdon's Leafbird (Jerdon's Chloropsis) - Chloropsis jerdoni,jerlea1
+Chloropsis,Golden-fronted Leafbird (Golden-fronted Chloropsis) - Chloropsis aurifrons,goflea1
+Chloropsis,Sumatran Leafbird - Chloropsis media,sumlea1
+Chloropsis,Orange-bellied Leafbird (Orange-bellied Chloropsis) - Chloropsis hardwickii,orblea1
+Chloropsis,Blue-masked Leafbird - Chloropsis venusta,blmlea1
+Red-breasted Flycatcher,Red-breasted Flycatcher - Ficedula parva,rebfly
+Black-headed cuckooshrike,Black-headed Cuckooshrike - Lalage melanoptera,bkhcus1
+great horned owl,Great Horned Owl - Bubo virginianus,grhowl
+Honey Buzzard,European Honey-buzzard - Pernis apivorus,euhbuz1
+Honey Buzzard,Sulawesi Honey-buzzard - Pernis celebensis,barhob1
+Honey Buzzard,Philippine Honey-buzzard - Pernis steerei,barhob2
+Honey Buzzard,Oriental Honey-buzzard (Crested Honey Buzzard) - Pernis ptilorhynchus,orihob2
+Honey Buzzard,Long-tailed Honey-buzzard - Henicopernis longicauda,lthbuz1
+Honey Buzzard,Black Honey-buzzard - Henicopernis infuscatus,blhbuz1
+Brown Fish Owl,Brown Fish-Owl - Ketupa zeylonensis,brfowl1
+Jungle Bush Quail,Jungle Bush-Quail - Perdicula asiatica,jubqua1
+Common Babbler,Common Babbler - Argya caudata,combab3
+Small Minivet,Small Minivet - Pericrocotus cinnamomeus,smamin1
+Streaked Fantail,Vanuatu Streaked Fantail - Rhipidura spilodera,strfan2
+Streaked Fantail,Fiji Streaked Fantail - Rhipidura layardi,fisfan1
+Streaked Fantail,New Caledonian Streaked Fantail - Rhipidura verreauxi,strfan5
+grey tit,Grey Tit - Melaniparus afer,grytit1
+grey tit,Grey Tit-Flycatcher - Fraseria plumbea,grytif1
+grey tit,Grey-crested Tit - Lophophanes dichrous,gyctit1
+grey tit,Grey-faced Tit-Babbler - Mixornis kelleyi,gyftib1
+grey tit,Grey-cheeked Tit-Babbler - Mixornis flavicollis,gyctib1
+grey tit,Grey-throated Tit-Flycatcher - Fraseria griseigularis,gyttif1
+Blue-bearded Bee-eater,Blue-bearded Bee-eater - Nyctyornis athertoni,bbbeat1
+B Shrike,Black-billed Shrike-Tyrant - Agriornis montanus,bkbsht1
+B Shrike,Grey-bellied Shrike-Tyrant - Agriornis micropterus,gybsht1
+B Shrike,Black-headed Shrike-Babbler - Pteruthius rufiventer,bhsbab1
+B Shrike,Pied Shrike-Babbler - Pteruthius flaviscapis,wbsbab2
+B Shrike,White-browed Shrike-Babbler - Pteruthius aeralatus,whbshb1
+B Shrike,Green Shrike-Babbler - Pteruthius xanthochlorus,grsbab1
+B Shrike,Black-eared Shrike-Babbler - Pteruthius melanotis,besbab1
+B Shrike,Trilling Shrike-Babbler - Pteruthius aenobarbus,cfsbab1
+B Shrike,Clicking Shrike-Babbler - Pteruthius intermedius,clishb1
+B Shrike,Yellow-browed Shrike-Vireo - Vireolanius eximius,ybsvir1
+B Shrike,Bower's Shrikethrush - Colluricincla boweri,bowsht1
+B Shrike,Black-and-white Shrike-flycatcher - Bias musicus,bawfly1
+B Shrike,Bar-winged Flycatcher-shrike - Hemipus picatus,bwfshr1
+B Shrike,Black-winged Flycatcher-shrike - Hemipus hirundinaceus,bwfshr2
+B Shrike,Black-throated Shrikebill - Clytorhynchus nigrogularis,bktshr1
+B Shrike,Bull-headed Shrike - Lanius bucephalus,buhshr1
+B Shrike,Red-backed Shrike - Lanius collurio,rebshr1
+B Shrike,Brown Shrike - Lanius cristatus,brnshr
+B Shrike,Burmese Shrike - Lanius collurioides,burshr1
+B Shrike,Bay-backed Shrike - Lanius vittatus,babshr1
+B Shrike,Grey-backed Shrike - Lanius tephronotus,gybshr1
+B Shrike,Yellow-billed Shrike - Lanius corvinus,yebshr1
+B Shrike,Black-throated Shrike-Tanager - Lanio aurantius,btstan1
+Bush Quail,Jungle Bush-Quail - Perdicula asiatica,jubqua1
+Bush Quail,Rock Bush-Quail - Perdicula argoondah,robqua1
+Bush Quail,Painted Bush-Quail - Perdicula erythrorhyncha,pabqua1
+Bush Quail,Manipur Bush-Quail - Perdicula manipurensis,mabqua1
+Scarlet Minivet,Scarlet Minivet - Pericrocotus speciosus,scamin1
+grey partridge,Grey Partridge - Perdix perdix,grypar
+grey partridge,Grey-breasted Partridge - Arborophila orientalis,gybpar4
