@@ -3,7 +3,7 @@
 Repo for code and output from bird watching field notes. The compiled output is located [here](output/field_notes.md).
 
 The full pipeline consists of the following:
-1. Extract the text from the scanned images (not done here)
+1. Extract the text from the scanned images ([sample image](data/raw/sample_scans/20240810_165732.jpg))
 2. Standardize spelling and case (GPT API call)
 3. Automatic match to an entry in eBird (eBird API call)
 4. Manual processing of remaining entries, and
