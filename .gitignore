@@ -1,3 +1,5 @@
 /venv
 .env
 /scans
+*.ipynb
+scripts/*__pycache__
